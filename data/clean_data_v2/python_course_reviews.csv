@@ -1,0 +1,521 @@
+feedback_id,timestamp,username,review,sentiment,emotion,rating,course
+1,1-28-2024 11:00,user_484,Promised GUI projects but only scratched the surface.,negative,disappointment,1,Introduction to Python
+2,2-7-2024 16:00,user_332,Never thought I'd enjoy list comprehensions this much!,positive,excitement,5,Introduction to Python
+3,10-1-2023 09:00,user_232,"The OOP part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+4,2-6-2024 09:00,user_441,Rage-quit the decorators assignment. Too vague!,negative,anger,2,Introduction to Python
+5,11-10-2023 12:00,user_182,The OOP quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+6,10-13-2023 11:00,user_255,Why was list comprehensions explained so poorly? Totally caught me off guard.,positive,surprise,4,Introduction to Python
+7,12-6-2023 17:00,user_116,Why is exception handling so confusing here?,negative,frustration,1,Introduction to Python
+8,2-22-2024 15:00,user_365,GUI projects is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+9,3-12-2024 11:00,user_271,The NumPy project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+10,12-15-2023 15:00,user_134,Never thought I'd enjoy Pandas this much!,positive,excitement,5,Introduction to Python
+11,12-19-2023 15:00,user_183,Frustrated with Pandas. Need better examples.,negative,frustration,1,Introduction to Python
+12,2-15-2024 14:00,user_141,The list comprehensions section was a letdown.,negative,disappointment,2,Introduction to Python
+13,10-29-2023 11:00,user_440,Mastered file handling thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+14,12-11-2023 09:00,user_153,Average course. The GUI projects section was fine.,neutral,neutral,3,Introduction to Python
+15,2-4-2024 10:00,user_385,Promised lambda functions but only scratched the surface.,negative,disappointment,1,Introduction to Python
+16,11-26-2023 13:00,user_379,Why is OOP so confusing here?,negative,frustration,1,Introduction to Python
+17,1-2-2024 15:00,user_344,"Not bad, but OOP needs improvement.",neutral,neutral,3,Introduction to Python
+18,3-26-2024 14:00,user_373,"Endless slides on exception handling, where's the coding?",negative,boredom,2,Introduction to Python
+19,10-13-2023 10:00,user_424,Rage-quit the exception handling assignment. Too vague!,negative,anger,1,Introduction to Python
+20,12-18-2023 14:00,user_339,Didn't expect exception handling to be this intuitive!,positive,surprise,4,Introduction to Python
+21,12-20-2023 11:00,user_346,exception handling is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+22,2-9-2024 14:00,user_405,The GUI projects lectures put me to sleep.,negative,boredom,1,Introduction to Python
+23,10-19-2023 14:00,user_161,The OOP lectures put me to sleep.,negative,boredom,1,Introduction to Python
+24,2-23-2024 16:00,user_192,"Endless slides on exception handling, where's the coding?",negative,boredom,1,Introduction to Python
+25,1-31-2024 10:00,user_407,The exception handling quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+26,2-7-2024 17:00,user_342,The instructor's NumPy examples were hilarious and easy to follow!,positive,happiness,4,Introduction to Python
+27,2-17-2024 16:00,user_295,The NumPy project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+28,2-25-2024 16:00,user_171,The NumPy project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+29,3-12-2024 10:00,user_202,Never thought I'd enjoy list comprehensions this much!,positive,excitement,4,Introduction to Python
+30,1-17-2024 12:00,user_375,Now I can build GUI projects apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+31,2-28-2024 12:00,user_287,"Not bad, but GUI projects needs improvement.",neutral,neutral,3,Introduction to Python
+32,10-11-2023 12:00,user_193,NumPy is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+33,2-16-2024 11:00,user_388,OOP clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+34,1-19-2024 10:00,user_368,The instructor's OOP examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+35,12-18-2023 17:00,user_492,Didn't expect NumPy to be this intuitive!,negative,surprise,2,Introduction to Python
+36,2-9-2024 09:00,user_480,Didn't expect async programming to be this intuitive!,positive,surprise,5,Introduction to Python
+37,10-31-2023 13:00,user_124,Now I can build lambda functions apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+38,2-13-2024 09:00,user_218,"Endless slides on list comprehensions, where's the coding?",negative,boredom,1,Introduction to Python
+39,11-30-2023 10:00,user_173,"The exception handling part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+40,10-29-2023 12:00,user_265,Expected more depth on OOP.,negative,disappointment,1,Introduction to Python
+41,1-28-2024 11:00,user_242,Didn't expect NumPy to be this intuitive!,negative,surprise,1,Introduction to Python
+42,12-5-2023 10:00,user_307,Rage-quit the exception handling assignment. Too vague!,negative,anger,1,Introduction to Python
+43,3-31-2024 13:00,user_474,Still don't get async programming after 3 lectures.,negative,confusion,1,Introduction to Python
+44,2-2-2024 12:00,user_337,"The GUI projects part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+45,11-11-2023 11:00,user_236,The OOP quiz was unfair and poorly designed.,negative,frustration,2,Introduction to Python
+46,3-21-2024 15:00,user_390,The GUI projects video quality is terrible!,negative,anger,2,Introduction to Python
+47,3-29-2024 11:00,user_214,Why is exception handling explained so poorly?,negative,confusion,2,Introduction to Python
+48,11-6-2023 17:00,user_208,"Not bad, but lambda functions needs improvement.",neutral,neutral,3,Introduction to Python
+49,10-17-2023 17:00,user_208,"Endless slides on exception handling, where's the coding?",negative,boredom,1,Introduction to Python
+50,3-5-2024 10:00,user_321,The file handling quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+51,2-13-2024 15:00,user_179,The async programming project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+52,3-26-2024 10:00,user_437,Promised decorators but only scratched the surface.,negative,disappointment,1,Introduction to Python
+53,12-15-2023 13:00,user_377,"I finally get GUI projects, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+54,1-13-2024 12:00,user_131,Why is NumPy explained so poorly?,negative,confusion,1,Introduction to Python
+55,1-21-2024 09:00,user_273,This Pandas section is a waste of time.,negative,anger,1,Introduction to Python
+56,12-30-2023 16:00,user_384,The lambda functions project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+57,11-5-2023 15:00,user_343,Promised exception handling but only scratched the surface.,negative,disappointment,2,Introduction to Python
+58,1-9-2024 12:00,user_253,Why was decorators explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+59,2-19-2024 12:00,user_336,Lost at OOP. Need better examples!,negative,confusion,1,Introduction to Python
+60,2-12-2024 15:00,user_333,"The OOP part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+61,1-17-2024 16:00,user_379,The decorators demo was unexpectedly brilliant!,negative,surprise,1,Introduction to Python
+62,1-22-2024 12:00,user_310,"Not bad, but OOP needs improvement.",neutral,neutral,3,Introduction to Python
+63,3-26-2024 10:00,user_408,The decorators quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+64,10-8-2023 12:00,user_168,Promised GUI projects but only scratched the surface.,negative,disappointment,1,Introduction to Python
+65,2-20-2024 11:00,user_153,The instructor's exception handling examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+66,12-11-2023 10:00,user_374,Never thought I'd enjoy Pandas this much!,positive,excitement,5,Introduction to Python
+67,3-2-2024 11:00,user_245,The lambda functions quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+68,2-16-2024 16:00,user_215,"The exception handling part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+69,10-11-2023 17:00,user_373,"The NumPy part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+70,12-16-2023 14:00,user_119,The list comprehensions lectures put me to sleep.,negative,boredom,1,Introduction to Python
+71,10-9-2023 14:00,user_264,The instructor's NumPy examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+72,12-27-2023 09:00,user_403,The GUI projects project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+73,1-20-2024 15:00,user_428,Didn't expect NumPy to be this intuitive!,negative,surprise,2,Introduction to Python
+74,1-31-2024 10:00,user_270,The exception handling section was a letdown.,negative,disappointment,2,Introduction to Python
+75,3-24-2024 13:00,user_352,Rage-quit the async programming assignment. Too vague!,negative,anger,1,Introduction to Python
+76,10-29-2023 09:00,user_363,The async programming quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+77,1-29-2024 16:00,user_426,The list comprehensions quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+78,12-25-2023 14:00,user_439,"The file handling part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+79,12-26-2023 10:00,user_101,"Endless slides on lambda functions, where's the coding?",negative,boredom,1,Introduction to Python
+80,12-31-2023 10:00,user_258,This async programming section is a waste of time.,negative,anger,1,Introduction to Python
+81,12-18-2023 10:00,user_151,The GUI projects section was a letdown.,negative,disappointment,1,Introduction to Python
+82,12-8-2023 09:00,user_451,The instructor's Pandas examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+83,3-2-2024 16:00,user_252,Rage-quit the async programming assignment. Too vague!,negative,anger,1,Introduction to Python
+84,1-19-2024 14:00,user_275,exception handling is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+85,10-18-2023 11:00,user_253,Rage-quit the GUI projects assignment. Too vague!,negative,anger,1,Introduction to Python
+86,10-12-2023 15:00,user_372,list comprehensions clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+87,12-29-2023 14:00,user_339,The exception handling lectures put me to sleep.,negative,boredom,1,Introduction to Python
+88,1-12-2024 17:00,user_425,The list comprehensions video quality is terrible!,negative,anger,1,Introduction to Python
+89,10-7-2023 09:00,user_234,The file handling project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+90,12-31-2023 16:00,user_306,Rage-quit the OOP assignment. Too vague!,negative,anger,1,Introduction to Python
+91,2-16-2024 10:00,user_175,Pandas is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+92,2-15-2024 10:00,user_415,"Endless slides on lambda functions, where's the coding?",negative,boredom,1,Introduction to Python
+93,11-29-2023 14:00,user_469,The list comprehensions video quality is terrible!,negative,anger,1,Introduction to Python
+94,10-20-2023 14:00,user_400,Mastered exception handling thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+95,1-19-2024 10:00,user_345,Promised list comprehensions but only scratched the surface.,negative,disappointment,2,Introduction to Python
+96,1-19-2024 12:00,user_143,OOP clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+97,2-23-2024 10:00,user_333,Why is NumPy explained so poorly?,negative,confusion,1,Introduction to Python
+98,12-28-2023 10:00,user_160,The instructor's GUI projects examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+99,1-29-2024 15:00,user_199,list comprehensions clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+100,10-31-2023 14:00,user_414,"Not bad, but lambda functions needs improvement.",neutral,neutral,3,Introduction to Python
+101,3-25-2024 09:00,user_162,The list comprehensions demo was unexpectedly brilliant!,positive,surprise,4,Introduction to Python
+102,12-18-2023 11:00,user_316,The NumPy demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+103,2-14-2024 14:00,user_223,The instructor's list comprehensions examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+104,2-16-2024 11:00,user_289,Mastered async programming thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+105,11-5-2023 12:00,user_218,Pandas is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+106,3-15-2024 11:00,user_144,Now I can build decorators apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+107,1-21-2024 14:00,user_482,The instructor's GUI projects examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+108,1-30-2024 13:00,user_337,The exception handling section was a letdown.,negative,disappointment,1,Introduction to Python
+109,12-2-2023 15:00,user_118,This exception handling section is a waste of time.,negative,anger,1,Introduction to Python
+110,1-21-2024 16:00,user_461,Now I can build async programming apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+111,10-29-2023 13:00,user_349,The file handling project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+112,2-26-2024 12:00,user_278,Rage-quit the exception handling assignment. Too vague!,negative,anger,1,Introduction to Python
+113,10-28-2023 12:00,user_453,Frustrated with file handling. Need better examples.,negative,frustration,1,Introduction to Python
+114,10-29-2023 11:00,user_385,"The decorators part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+115,10-29-2023 15:00,user_111,Lost at exception handling. Need better examples!,negative,confusion,2,Introduction to Python
+116,12-18-2023 12:00,user_130,The list comprehensions section was a letdown.,negative,disappointment,1,Introduction to Python
+117,10-26-2023 16:00,user_222,The instructor's exception handling examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+118,3-15-2024 10:00,user_149,exception handling clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+119,12-23-2023 09:00,user_373,Now I can build list comprehensions apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+120,2-15-2024 14:00,user_463,Why is exception handling so confusing here?,negative,frustration,2,Introduction to Python
+121,1-27-2024 17:00,user_192,"Endless slides on Pandas, where's the coding?",negative,boredom,1,Introduction to Python
+122,11-16-2023 11:00,user_395,"Not bad, but decorators needs improvement.",neutral,neutral,3,Introduction to Python
+123,2-12-2024 12:00,user_147,OOP is mind-blowing! I stayed up all night coding!,positive,excitement,4,Introduction to Python
+124,10-22-2023 10:00,user_465,Didn't expect OOP to be this intuitive!,negative,surprise,1,Introduction to Python
+125,12-1-2023 10:00,user_428,The exception handling section was a letdown.,negative,disappointment,1,Introduction to Python
+126,3-9-2024 10:00,user_476,Rage-quit the file handling assignment. Too vague!,negative,anger,2,Introduction to Python
+127,2-26-2024 12:00,user_263,Why is exception handling explained so poorly?,negative,confusion,1,Introduction to Python
+128,3-27-2024 14:00,user_329,The Pandas project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+129,2-29-2024 11:00,user_135,Why is list comprehensions explained so poorly?,negative,confusion,1,Introduction to Python
+130,2-9-2024 11:00,user_345,"The OOP part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+131,2-11-2024 14:00,user_346,Why is exception handling so confusing here?,negative,frustration,1,Introduction to Python
+132,10-25-2023 16:00,user_289,Mastered file handling thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+133,2-14-2024 12:00,user_320,Mastered list comprehensions thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+134,1-21-2024 12:00,user_360,"I finally get GUI projects, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+135,1-10-2024 17:00,user_415,The NumPy lectures put me to sleep.,negative,boredom,1,Introduction to Python
+136,3-28-2024 11:00,user_392,"Endless slides on list comprehensions, where's the coding?",negative,boredom,1,Introduction to Python
+137,2-29-2024 09:00,user_133,The Pandas video quality is terrible!,negative,anger,1,Introduction to Python
+138,11-23-2023 13:00,user_323,Rage-quit the exception handling assignment. Too vague!,negative,anger,1,Introduction to Python
+139,11-19-2023 14:00,user_301,"The exception handling part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+140,11-27-2023 16:00,user_121,Lost at Pandas. Need better examples!,negative,confusion,1,Introduction to Python
+141,1-5-2024 14:00,user_118,Didn't expect Pandas to be this intuitive!,positive,surprise,4,Introduction to Python
+142,3-10-2024 12:00,user_134,"The NumPy part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+143,12-8-2023 11:00,user_409,Lost at list comprehensions. Need better examples!,negative,confusion,2,Introduction to Python
+144,10-25-2023 12:00,user_481,Expected more depth on exception handling.,negative,disappointment,1,Introduction to Python
+145,2-16-2024 09:00,user_128,The GUI projects video quality is terrible!,negative,anger,2,Introduction to Python
+146,1-15-2024 17:00,user_429,Why is exception handling explained so poorly?,negative,confusion,1,Introduction to Python
+147,1-30-2024 13:00,user_227,Average course. The OOP section was fine.,neutral,neutral,3,Introduction to Python
+148,12-20-2023 09:00,user_104,Why is OOP so confusing here?,negative,frustration,1,Introduction to Python
+149,12-4-2023 09:00,user_346,The exception handling demo was unexpectedly brilliant!,negative,surprise,1,Introduction to Python
+150,3-20-2024 10:00,user_177,"The file handling part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+151,3-15-2024 11:00,user_282,Lost at OOP. Need better examples!,negative,confusion,1,Introduction to Python
+152,3-6-2024 13:00,user_456,The OOP lectures put me to sleep.,negative,boredom,1,Introduction to Python
+153,12-7-2023 14:00,user_385,Rage-quit the file handling assignment. Too vague!,negative,anger,1,Introduction to Python
+154,1-28-2024 13:00,user_323,The file handling lectures put me to sleep.,negative,boredom,2,Introduction to Python
+155,11-12-2023 12:00,user_405,The OOP lectures put me to sleep.,negative,boredom,1,Introduction to Python
+156,10-10-2023 10:00,user_420,list comprehensions clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+157,12-11-2023 17:00,user_348,The exception handling lectures put me to sleep.,negative,boredom,1,Introduction to Python
+158,2-29-2024 15:00,user_328,"The GUI projects part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+159,3-24-2024 09:00,user_219,The instructor's exception handling examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+160,1-19-2024 16:00,user_256,The file handling video quality is terrible!,negative,anger,1,Introduction to Python
+161,12-1-2023 09:00,user_259,Never thought I'd enjoy NumPy this much!,positive,excitement,5,Introduction to Python
+162,3-12-2024 10:00,user_433,"Not bad, but Pandas needs improvement.",neutral,neutral,3,Introduction to Python
+163,11-26-2023 09:00,user_386,The GUI projects quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+164,2-6-2024 17:00,user_329,Lost at OOP. Need better examples!,negative,confusion,1,Introduction to Python
+165,11-1-2023 14:00,user_494,Now I can build exception handling apps confidently. Worth every penny!,positive,satisfaction,4,Introduction to Python
+166,11-8-2023 14:00,user_363,Didn't expect OOP to be this intuitive!,positive,surprise,5,Introduction to Python
+167,10-13-2023 14:00,user_298,"The OOP part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+168,12-27-2023 14:00,user_429,"The exception handling part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+169,11-3-2023 14:00,user_368,"Not bad, but lambda functions needs improvement.",neutral,neutral,3,Introduction to Python
+170,3-17-2024 09:00,user_345,Now I can build OOP apps confidently. Worth every penny!,positive,satisfaction,4,Introduction to Python
+171,10-14-2023 14:00,user_154,The decorators demo was unexpectedly brilliant!,negative,surprise,1,Introduction to Python
+172,3-4-2024 11:00,user_417,The file handling quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+173,2-12-2024 10:00,user_343,Now I can build exception handling apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+174,11-29-2023 12:00,user_333,The async programming video quality is terrible!,negative,anger,2,Introduction to Python
+175,3-2-2024 13:00,user_267,Didn't expect OOP to be this intuitive!,positive,surprise,5,Introduction to Python
+176,12-19-2023 16:00,user_293,Promised decorators but only scratched the surface.,negative,disappointment,1,Introduction to Python
+177,11-18-2023 16:00,user_143,Promised OOP but only scratched the surface.,negative,disappointment,2,Introduction to Python
+178,3-15-2024 17:00,user_472,Still don't get lambda functions after 3 lectures.,negative,confusion,1,Introduction to Python
+179,11-20-2023 14:00,user_464,Why was list comprehensions explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+180,11-20-2023 13:00,user_372,Never thought I'd enjoy GUI projects this much!,positive,excitement,5,Introduction to Python
+181,11-26-2023 14:00,user_367,exception handling clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+182,2-19-2024 10:00,user_392,GUI projects clicked for me instantly. So rewarding!,positive,happiness,4,Introduction to Python
+183,10-28-2023 12:00,user_373,Why is list comprehensions explained so poorly?,negative,confusion,1,Introduction to Python
+184,3-29-2024 15:00,user_243,Expected more depth on exception handling.,negative,disappointment,1,Introduction to Python
+185,2-13-2024 13:00,user_195,The file handling demo was unexpectedly brilliant!,negative,surprise,1,Introduction to Python
+186,3-8-2024 13:00,user_128,The OOP video quality is terrible!,negative,anger,1,Introduction to Python
+187,10-15-2023 11:00,user_190,The exception handling project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+188,11-10-2023 09:00,user_315,The exception handling video quality is terrible!,negative,anger,1,Introduction to Python
+189,11-6-2023 17:00,user_288,lambda functions is mind-blowing! I stayed up all night coding!,positive,excitement,4,Introduction to Python
+190,10-25-2023 15:00,user_366,Didn't expect file handling to be this intuitive!,positive,surprise,4,Introduction to Python
+191,3-21-2024 17:00,user_287,The GUI projects project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+192,1-3-2024 15:00,user_363,Frustrated with decorators. Need better examples.,negative,frustration,1,Introduction to Python
+193,11-20-2023 09:00,user_463,Why was exception handling explained so poorly? Totally caught me off guard.,positive,surprise,4,Introduction to Python
+194,3-24-2024 13:00,user_163,The list comprehensions lectures put me to sleep.,negative,boredom,2,Introduction to Python
+195,10-12-2023 17:00,user_252,Why is exception handling explained so poorly?,negative,confusion,1,Introduction to Python
+196,10-23-2023 14:00,user_356,The NumPy project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+197,10-29-2023 10:00,user_166,"I finally get async programming, this course is a lifesaver!",positive,happiness,4,Introduction to Python
+198,12-23-2023 13:00,user_480,The Pandas section was a letdown.,negative,disappointment,1,Introduction to Python
+199,2-19-2024 09:00,user_105,Frustrated with file handling. Need better examples.,negative,frustration,2,Introduction to Python
+200,1-20-2024 16:00,user_378,Pandas is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+201,2-4-2024 15:00,user_183,The OOP project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+202,3-6-2024 13:00,user_461,This exception handling section is a waste of time.,negative,anger,1,Introduction to Python
+203,10-20-2023 09:00,user_391,The exception handling section was a letdown.,negative,disappointment,1,Introduction to Python
+204,2-2-2024 10:00,user_121,"Endless slides on NumPy, where's the coding?",negative,boredom,2,Introduction to Python
+205,12-27-2023 17:00,user_166,Expected more depth on list comprehensions.,negative,disappointment,1,Introduction to Python
+206,12-12-2023 10:00,user_102,Lost at exception handling. Need better examples!,negative,confusion,2,Introduction to Python
+207,2-19-2024 14:00,user_466,"Not bad, but exception handling needs improvement.",neutral,neutral,3,Introduction to Python
+208,3-28-2024 11:00,user_393,The instructor's exception handling examples were hilarious and easy to follow!,positive,happiness,4,Introduction to Python
+209,12-28-2023 15:00,user_214,Never thought I'd enjoy lambda functions this much!,positive,excitement,5,Introduction to Python
+210,10-10-2023 13:00,user_170,Why is Pandas explained so poorly?,negative,confusion,1,Introduction to Python
+211,2-11-2024 12:00,user_220,"Endless slides on NumPy, where's the coding?",negative,boredom,1,Introduction to Python
+212,12-13-2023 15:00,user_374,Why is NumPy explained so poorly?,negative,confusion,2,Introduction to Python
+213,10-18-2023 11:00,user_129,Average course. The GUI projects section was fine.,neutral,neutral,3,Introduction to Python
+214,1-7-2024 10:00,user_339,This OOP section is a waste of time.,negative,anger,2,Introduction to Python
+215,2-7-2024 17:00,user_330,Now I can build exception handling apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+216,11-15-2023 14:00,user_382,The OOP demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+217,1-2-2024 17:00,user_379,Didn't expect Pandas to be this intuitive!,negative,surprise,1,Introduction to Python
+218,2-7-2024 14:00,user_417,Average course. The NumPy section was fine.,neutral,neutral,3,Introduction to Python
+219,10-27-2023 10:00,user_135,The exception handling lectures put me to sleep.,negative,boredom,2,Introduction to Python
+220,12-13-2023 12:00,user_281,Why was OOP explained so poorly? Totally caught me off guard.,positive,surprise,4,Introduction to Python
+221,10-20-2023 13:00,user_356,"Not bad, but lambda functions needs improvement.",neutral,neutral,3,Introduction to Python
+222,2-8-2024 14:00,user_206,Why was Pandas explained so poorly? Totally caught me off guard.,negative,surprise,1,Introduction to Python
+223,11-8-2023 15:00,user_142,Lost at exception handling. Need better examples!,negative,confusion,1,Introduction to Python
+224,10-9-2023 14:00,user_139,file handling is mind-blowing! I stayed up all night coding!,positive,excitement,4,Introduction to Python
+225,2-22-2024 13:00,user_157,Mastered async programming thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+226,2-20-2024 14:00,user_167,The exception handling project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+227,10-8-2023 12:00,user_344,The Pandas project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+228,10-2-2023 15:00,user_100,The file handling demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+229,2-24-2024 13:00,user_245,Mastered OOP thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+230,2-12-2024 14:00,user_123,Lost at exception handling. Need better examples!,negative,confusion,1,Introduction to Python
+231,11-9-2023 09:00,user_191,ZZZ... another lecture on list comprehensions.,negative,boredom,2,Introduction to Python
+232,2-13-2024 14:00,user_287,Lost at exception handling. Need better examples!,negative,confusion,1,Introduction to Python
+233,10-8-2023 13:00,user_412,Rage-quit the OOP assignment. Too vague!,negative,anger,2,Introduction to Python
+234,11-5-2023 17:00,user_259,The OOP demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+235,2-19-2024 12:00,user_251,The file handling video quality is terrible!,negative,anger,2,Introduction to Python
+236,10-2-2023 14:00,user_439,The file handling lectures put me to sleep.,negative,boredom,2,Introduction to Python
+237,1-29-2024 15:00,user_295,Why is Pandas so confusing here?,negative,frustration,2,Introduction to Python
+238,11-5-2023 11:00,user_452,Still don't get exception handling after 3 lectures.,negative,confusion,2,Introduction to Python
+239,10-25-2023 15:00,user_110,Didn't expect exception handling to be this intuitive!,positive,surprise,5,Introduction to Python
+240,12-17-2023 13:00,user_331,GUI projects is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+241,2-17-2024 14:00,user_344,The GUI projects project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+242,12-25-2023 09:00,user_394,The list comprehensions section was a letdown.,negative,disappointment,1,Introduction to Python
+243,11-7-2023 17:00,user_171,Still don't get exception handling after 3 lectures.,negative,confusion,2,Introduction to Python
+244,11-14-2023 12:00,user_223,Average course. The async programming section was fine.,neutral,neutral,3,Introduction to Python
+245,2-24-2024 16:00,user_435,Lost at list comprehensions. Need better examples!,negative,confusion,1,Introduction to Python
+246,3-22-2024 16:00,user_206,Average course. The decorators section was fine.,neutral,neutral,3,Introduction to Python
+247,10-18-2023 14:00,user_363,exception handling clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+248,11-22-2023 15:00,user_351,Frustrated with exception handling. Need better examples.,negative,frustration,2,Introduction to Python
+249,12-7-2023 14:00,user_117,Still don't get OOP after 3 lectures.,negative,confusion,2,Introduction to Python
+250,12-23-2023 14:00,user_138,"The list comprehensions part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+251,3-7-2024 12:00,user_292,"The OOP part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+252,12-30-2023 10:00,user_149,The Pandas project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+253,1-24-2024 10:00,user_379,"I finally get exception handling, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+254,11-3-2023 16:00,user_388,The OOP quiz was unfair and poorly designed.,negative,frustration,2,Introduction to Python
+255,1-26-2024 13:00,user_293,The OOP quiz was unfair and poorly designed.,negative,frustration,2,Introduction to Python
+256,1-18-2024 17:00,user_243,Promised OOP but only scratched the surface.,negative,disappointment,2,Introduction to Python
+257,1-8-2024 11:00,user_342,"I finally get GUI projects, this course is a lifesaver!",positive,happiness,4,Introduction to Python
+258,1-10-2024 17:00,user_418,Frustrated with file handling. Need better examples.,negative,frustration,2,Introduction to Python
+259,2-2-2024 17:00,user_481,The GUI projects project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+260,2-26-2024 14:00,user_253,"The decorators part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+261,1-13-2024 16:00,user_451,OOP clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+262,11-4-2023 16:00,user_254,Still don't get list comprehensions after 3 lectures.,negative,confusion,1,Introduction to Python
+263,1-24-2024 14:00,user_373,lambda functions is mind-blowing! I stayed up all night coding!,positive,excitement,4,Introduction to Python
+264,11-16-2023 15:00,user_415,Now I can build list comprehensions apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+265,1-9-2024 13:00,user_112,"I finally get exception handling, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+266,10-20-2023 16:00,user_162,Why is Pandas so confusing here?,negative,frustration,1,Introduction to Python
+267,12-25-2023 14:00,user_359,This decorators section is a waste of time.,negative,anger,2,Introduction to Python
+268,2-6-2024 17:00,user_171,Never thought I'd enjoy GUI projects this much!,positive,excitement,5,Introduction to Python
+269,3-2-2024 12:00,user_230,Why is file handling so confusing here?,negative,frustration,2,Introduction to Python
+270,10-12-2023 12:00,user_300,The list comprehensions quiz was unfair and poorly designed.,negative,frustration,2,Introduction to Python
+271,10-29-2023 15:00,user_455,The instructor's NumPy examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+272,11-16-2023 10:00,user_339,"Not bad, but file handling needs improvement.",neutral,neutral,3,Introduction to Python
+273,12-23-2023 11:00,user_445,Mastered OOP thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+274,1-5-2024 09:00,user_354,The OOP video quality is terrible!,negative,anger,1,Introduction to Python
+275,1-27-2024 16:00,user_156,The instructor's list comprehensions examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+276,2-15-2024 14:00,user_413,Now I can build GUI projects apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+277,1-4-2024 10:00,user_162,Why was GUI projects explained so poorly? Totally caught me off guard.,positive,surprise,4,Introduction to Python
+278,3-12-2024 12:00,user_352,The list comprehensions project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+279,1-19-2024 16:00,user_399,GUI projects is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+280,3-31-2024 09:00,user_204,Why is exception handling explained so poorly?,negative,confusion,2,Introduction to Python
+281,2-22-2024 16:00,user_407,Mastered file handling thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+282,11-6-2023 13:00,user_110,Pandas is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+283,2-28-2024 17:00,user_357,Promised exception handling but only scratched the surface.,negative,disappointment,1,Introduction to Python
+284,1-21-2024 16:00,user_122,ZZZ... another lecture on list comprehensions.,negative,boredom,1,Introduction to Python
+285,3-28-2024 10:00,user_269,"I finally get lambda functions, this course is a lifesaver!",positive,happiness,4,Introduction to Python
+286,1-13-2024 11:00,user_430,"Not bad, but lambda functions needs improvement.",neutral,neutral,3,Introduction to Python
+287,3-7-2024 13:00,user_256,Why was OOP explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+288,1-10-2024 09:00,user_206,Average course. The OOP section was fine.,neutral,neutral,3,Introduction to Python
+289,11-22-2023 14:00,user_129,Lost at NumPy. Need better examples!,negative,confusion,1,Introduction to Python
+290,2-16-2024 10:00,user_327,Didn't expect NumPy to be this intuitive!,negative,surprise,1,Introduction to Python
+291,1-12-2024 16:00,user_454,Now I can build GUI projects apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+292,1-7-2024 14:00,user_117,Never thought I'd enjoy NumPy this much!,positive,excitement,5,Introduction to Python
+293,12-27-2023 15:00,user_452,The GUI projects lectures put me to sleep.,negative,boredom,1,Introduction to Python
+294,10-25-2023 09:00,user_339,Never thought I'd enjoy NumPy this much!,positive,excitement,5,Introduction to Python
+295,2-6-2024 09:00,user_377,The async programming demo was unexpectedly brilliant!,positive,surprise,4,Introduction to Python
+296,1-17-2024 15:00,user_346,"Endless slides on lambda functions, where's the coding?",negative,boredom,1,Introduction to Python
+297,3-9-2024 10:00,user_235,The exception handling demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+298,1-11-2024 09:00,user_490,The exception handling demo was unexpectedly brilliant!,positive,surprise,4,Introduction to Python
+299,2-11-2024 11:00,user_191,Promised exception handling but only scratched the surface.,negative,disappointment,1,Introduction to Python
+300,11-19-2023 14:00,user_468,Mastered exception handling thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+301,11-18-2023 16:00,user_389,The file handling project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+302,11-9-2023 13:00,user_193,Never thought I'd enjoy exception handling this much!,positive,excitement,5,Introduction to Python
+303,2-17-2024 12:00,user_346,Now I can build decorators apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+304,12-14-2023 11:00,user_380,Frustrated with Pandas. Need better examples.,negative,frustration,1,Introduction to Python
+305,12-27-2023 17:00,user_336,Expected more depth on GUI projects.,negative,disappointment,2,Introduction to Python
+306,10-24-2023 17:00,user_353,"The NumPy part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+307,2-29-2024 13:00,user_231,Why was GUI projects explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+308,10-22-2023 17:00,user_263,The GUI projects demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+309,3-22-2024 12:00,user_406,Mastered NumPy thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+310,1-14-2024 12:00,user_429,Lost at GUI projects. Need better examples!,negative,confusion,1,Introduction to Python
+311,11-3-2023 09:00,user_492,Average course. The exception handling section was fine.,neutral,neutral,3,Introduction to Python
+312,11-5-2023 14:00,user_491,Expected more depth on exception handling.,negative,disappointment,1,Introduction to Python
+313,11-3-2023 12:00,user_240,GUI projects is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+314,2-14-2024 16:00,user_257,This file handling section is a waste of time.,negative,anger,2,Introduction to Python
+315,3-27-2024 16:00,user_374,Expected more depth on OOP.,negative,disappointment,2,Introduction to Python
+316,11-25-2023 15:00,user_484,ZZZ... another lecture on lambda functions.,negative,boredom,1,Introduction to Python
+317,12-31-2023 15:00,user_468,Didn't expect NumPy to be this intuitive!,positive,surprise,5,Introduction to Python
+318,3-28-2024 15:00,user_106,Rage-quit the exception handling assignment. Too vague!,negative,anger,1,Introduction to Python
+319,1-28-2024 16:00,user_352,Still don't get exception handling after 3 lectures.,negative,confusion,1,Introduction to Python
+320,2-15-2024 17:00,user_181,Rage-quit the NumPy assignment. Too vague!,negative,anger,2,Introduction to Python
+321,11-11-2023 09:00,user_131,Now I can build NumPy apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+322,12-1-2023 11:00,user_141,NumPy clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+323,10-3-2023 16:00,user_282,"Not bad, but async programming needs improvement.",neutral,neutral,3,Introduction to Python
+324,1-13-2024 12:00,user_103,Why is NumPy so confusing here?,negative,frustration,1,Introduction to Python
+325,1-18-2024 14:00,user_390,ZZZ... another lecture on NumPy.,negative,boredom,1,Introduction to Python
+326,12-5-2023 09:00,user_218,Didn't expect GUI projects to be this intuitive!,negative,surprise,1,Introduction to Python
+327,10-6-2023 09:00,user_422,lambda functions is mind-blowing! I stayed up all night coding!,positive,excitement,4,Introduction to Python
+328,3-27-2024 11:00,user_144,Lost at OOP. Need better examples!,negative,confusion,2,Introduction to Python
+329,3-10-2024 16:00,user_291,"I finally get Pandas, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+330,1-6-2024 10:00,user_188,"Endless slides on NumPy, where's the coding?",negative,boredom,2,Introduction to Python
+331,12-23-2023 11:00,user_354,lambda functions clicked for me instantly. So rewarding!,positive,happiness,4,Introduction to Python
+332,1-3-2024 12:00,user_463,Why is OOP so confusing here?,negative,frustration,1,Introduction to Python
+333,3-18-2024 10:00,user_300,"Not bad, but decorators needs improvement.",neutral,neutral,3,Introduction to Python
+334,10-29-2023 12:00,user_425,Frustrated with OOP. Need better examples.,negative,frustration,1,Introduction to Python
+335,1-10-2024 15:00,user_231,The GUI projects project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+336,10-12-2023 09:00,user_405,Pandas clicked for me instantly. So rewarding!,positive,happiness,4,Introduction to Python
+337,10-30-2023 16:00,user_278,The instructor's list comprehensions examples were hilarious and easy to follow!,positive,happiness,5,Introduction to Python
+338,12-13-2023 09:00,user_360,The exception handling lectures put me to sleep.,negative,boredom,1,Introduction to Python
+339,12-13-2023 10:00,user_105,Rage-quit the NumPy assignment. Too vague!,negative,anger,2,Introduction to Python
+340,10-31-2023 10:00,user_189,Lost at lambda functions. Need better examples!,negative,confusion,1,Introduction to Python
+341,3-20-2024 16:00,user_384,"I finally get Pandas, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+342,12-15-2023 10:00,user_138,"Endless slides on file handling, where's the coding?",negative,boredom,1,Introduction to Python
+343,11-18-2023 15:00,user_249,Didn't expect list comprehensions to be this intuitive!,positive,surprise,5,Introduction to Python
+344,3-28-2024 13:00,user_490,The GUI projects demo was unexpectedly brilliant!,negative,surprise,2,Introduction to Python
+345,10-30-2023 09:00,user_326,The exception handling lectures put me to sleep.,negative,boredom,2,Introduction to Python
+346,10-25-2023 15:00,user_293,Rage-quit the OOP assignment. Too vague!,negative,anger,1,Introduction to Python
+347,1-8-2024 15:00,user_248,Why is OOP so confusing here?,negative,frustration,2,Introduction to Python
+348,1-7-2024 13:00,user_463,Expected more depth on NumPy.,negative,disappointment,2,Introduction to Python
+349,2-12-2024 13:00,user_146,Promised exception handling but only scratched the surface.,negative,disappointment,1,Introduction to Python
+350,3-31-2024 17:00,user_250,Frustrated with exception handling. Need better examples.,negative,frustration,1,Introduction to Python
+351,3-12-2024 11:00,user_292,The exception handling quiz was unfair and poorly designed.,negative,frustration,2,Introduction to Python
+352,2-9-2024 17:00,user_327,The NumPy demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+353,3-31-2024 16:00,user_316,Why was exception handling explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+354,12-3-2023 13:00,user_333,The NumPy project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+355,11-1-2023 09:00,user_387,Promised exception handling but only scratched the surface.,negative,disappointment,1,Introduction to Python
+356,12-21-2023 16:00,user_451,The file handling project made me fall in love with Python!,positive,excitement,4,Introduction to Python
+357,11-16-2023 09:00,user_455,The exception handling project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+358,11-10-2023 16:00,user_268,Mastered OOP thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+359,3-26-2024 15:00,user_399,Why is file handling so confusing here?,negative,frustration,1,Introduction to Python
+360,12-26-2023 09:00,user_302,Rage-quit the OOP assignment. Too vague!,negative,anger,1,Introduction to Python
+361,10-2-2023 09:00,user_368,The GUI projects lectures put me to sleep.,negative,boredom,1,Introduction to Python
+362,11-24-2023 17:00,user_370,Now I can build exception handling apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+363,1-28-2024 12:00,user_196,Mastered exception handling thanks to the clear exercises.,positive,satisfaction,4,Introduction to Python
+364,3-21-2024 14:00,user_315,The file handling demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+365,3-19-2024 15:00,user_441,The lambda functions project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+366,1-18-2024 12:00,user_145,Promised exception handling but only scratched the surface.,negative,disappointment,1,Introduction to Python
+367,2-8-2024 15:00,user_477,Why was Pandas explained so poorly? Totally caught me off guard.,negative,surprise,1,Introduction to Python
+368,11-16-2023 13:00,user_172,Why is OOP explained so poorly?,negative,confusion,1,Introduction to Python
+369,2-18-2024 13:00,user_408,The exception handling demo was unexpectedly brilliant!,negative,surprise,1,Introduction to Python
+370,12-5-2023 16:00,user_385,Why is file handling so confusing here?,negative,frustration,1,Introduction to Python
+371,2-8-2024 10:00,user_291,Mastered file handling thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+372,1-8-2024 10:00,user_348,"Not bad, but OOP needs improvement.",neutral,neutral,3,Introduction to Python
+373,3-8-2024 12:00,user_223,Why was async programming explained so poorly? Totally caught me off guard.,negative,surprise,2,Introduction to Python
+374,2-7-2024 17:00,user_364,Expected more depth on GUI projects.,negative,disappointment,1,Introduction to Python
+375,3-27-2024 12:00,user_128,ZZZ... another lecture on exception handling.,negative,boredom,2,Introduction to Python
+376,10-13-2023 09:00,user_215,Why is OOP so confusing here?,negative,frustration,2,Introduction to Python
+377,2-27-2024 09:00,user_312,The OOP project made me fall in love with Python!,positive,excitement,4,Introduction to Python
+378,12-16-2023 16:00,user_283,The list comprehensions project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+379,10-17-2023 10:00,user_361,The Pandas lectures put me to sleep.,negative,boredom,1,Introduction to Python
+380,10-18-2023 15:00,user_452,"Not bad, but Pandas needs improvement.",neutral,neutral,3,Introduction to Python
+381,2-17-2024 14:00,user_376,"The Pandas part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+382,1-24-2024 12:00,user_477,Frustrated with file handling. Need better examples.,negative,frustration,1,Introduction to Python
+383,10-21-2023 17:00,user_214,The NumPy section was a letdown.,negative,disappointment,1,Introduction to Python
+384,2-27-2024 15:00,user_124,Average course. The OOP section was fine.,neutral,neutral,3,Introduction to Python
+385,3-14-2024 16:00,user_114,The exception handling project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+386,10-2-2023 10:00,user_287,"The exception handling part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+387,12-2-2023 13:00,user_105,Expected more depth on OOP.,negative,disappointment,1,Introduction to Python
+388,11-22-2023 14:00,user_438,Never thought I'd enjoy list comprehensions this much!,positive,excitement,5,Introduction to Python
+389,12-5-2023 14:00,user_147,"I finally get list comprehensions, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+390,3-9-2024 15:00,user_168,The decorators section was a letdown.,negative,disappointment,1,Introduction to Python
+391,11-15-2023 16:00,user_311,Rage-quit the file handling assignment. Too vague!,negative,anger,1,Introduction to Python
+392,12-24-2023 15:00,user_161,Promised list comprehensions but only scratched the surface.,negative,disappointment,1,Introduction to Python
+393,12-28-2023 15:00,user_107,Now I can build list comprehensions apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+394,10-22-2023 13:00,user_373,Average course. The list comprehensions section was fine.,neutral,neutral,3,Introduction to Python
+395,3-8-2024 12:00,user_337,Why is file handling explained so poorly?,negative,confusion,1,Introduction to Python
+396,1-18-2024 16:00,user_349,Didn't expect async programming to be this intuitive!,positive,surprise,5,Introduction to Python
+397,10-14-2023 15:00,user_422,Never thought I'd enjoy NumPy this much!,positive,excitement,5,Introduction to Python
+398,1-24-2024 17:00,user_427,Rage-quit the GUI projects assignment. Too vague!,negative,anger,1,Introduction to Python
+399,10-12-2023 14:00,user_107,The list comprehensions project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+400,12-11-2023 14:00,user_227,ZZZ... another lecture on list comprehensions.,negative,boredom,2,Introduction to Python
+401,1-7-2024 16:00,user_257,Average course. The GUI projects section was fine.,neutral,neutral,3,Introduction to Python
+402,2-5-2024 17:00,user_446,Frustrated with Pandas. Need better examples.,negative,frustration,1,Introduction to Python
+403,1-25-2024 15:00,user_355,Didn't expect OOP to be this intuitive!,positive,surprise,5,Introduction to Python
+404,3-25-2024 16:00,user_206,Lost at async programming. Need better examples!,negative,confusion,2,Introduction to Python
+405,3-13-2024 11:00,user_346,The exception handling lectures put me to sleep.,negative,boredom,1,Introduction to Python
+406,3-19-2024 13:00,user_277,The decorators lectures put me to sleep.,negative,boredom,1,Introduction to Python
+407,2-3-2024 10:00,user_305,Promised exception handling but only scratched the surface.,negative,disappointment,1,Introduction to Python
+408,1-17-2024 15:00,user_379,Lost at exception handling. Need better examples!,negative,confusion,1,Introduction to Python
+409,1-12-2024 12:00,user_413,Didn't expect exception handling to be this intuitive!,negative,surprise,2,Introduction to Python
+410,10-18-2023 13:00,user_163,The OOP video quality is terrible!,negative,anger,2,Introduction to Python
+411,11-6-2023 15:00,user_243,OOP clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+412,10-3-2023 16:00,user_345,Now I can build exception handling apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+413,12-2-2023 16:00,user_174,Why is exception handling so confusing here?,negative,frustration,1,Introduction to Python
+414,12-8-2023 12:00,user_326,The lambda functions video quality is terrible!,negative,anger,2,Introduction to Python
+415,3-5-2024 16:00,user_430,The GUI projects section was a letdown.,negative,disappointment,1,Introduction to Python
+416,3-21-2024 13:00,user_454,OOP is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+417,11-28-2023 11:00,user_178,The NumPy section was a letdown.,negative,disappointment,2,Introduction to Python
+418,2-17-2024 17:00,user_360,Average course. The NumPy section was fine.,neutral,neutral,3,Introduction to Python
+419,1-26-2024 11:00,user_266,Rage-quit the async programming assignment. Too vague!,negative,anger,2,Introduction to Python
+420,1-19-2024 15:00,user_361,Still don't get list comprehensions after 3 lectures.,negative,confusion,1,Introduction to Python
+421,11-17-2023 12:00,user_453,Frustrated with decorators. Need better examples.,negative,frustration,1,Introduction to Python
+422,3-15-2024 14:00,user_415,Now I can build NumPy apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+423,1-2-2024 09:00,user_168,Still don't get GUI projects after 3 lectures.,negative,confusion,1,Introduction to Python
+424,10-3-2023 16:00,user_230,Frustrated with GUI projects. Need better examples.,negative,frustration,1,Introduction to Python
+425,3-5-2024 17:00,user_452,Lost at exception handling. Need better examples!,negative,confusion,1,Introduction to Python
+426,10-9-2023 09:00,user_325,Rage-quit the file handling assignment. Too vague!,negative,anger,1,Introduction to Python
+427,10-13-2023 12:00,user_330,The instructor's exception handling examples were hilarious and easy to follow!,positive,happiness,4,Introduction to Python
+428,1-26-2024 17:00,user_328,Frustrated with exception handling. Need better examples.,negative,frustration,2,Introduction to Python
+429,2-12-2024 11:00,user_242,The exception handling video quality is terrible!,negative,anger,2,Introduction to Python
+430,1-31-2024 12:00,user_395,Now I can build OOP apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+431,3-21-2024 12:00,user_266,Lost at NumPy. Need better examples!,negative,confusion,2,Introduction to Python
+432,2-24-2024 11:00,user_350,Now I can build GUI projects apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+433,3-22-2024 10:00,user_417,Lost at GUI projects. Need better examples!,negative,confusion,2,Introduction to Python
+434,10-18-2023 17:00,user_130,Rage-quit the list comprehensions assignment. Too vague!,negative,anger,2,Introduction to Python
+435,3-7-2024 13:00,user_211,ZZZ... another lecture on OOP.,negative,boredom,1,Introduction to Python
+436,10-26-2023 15:00,user_330,"Not bad, but OOP needs improvement.",neutral,neutral,3,Introduction to Python
+437,2-18-2024 13:00,user_457,Why is Pandas explained so poorly?,negative,confusion,2,Introduction to Python
+438,12-18-2023 10:00,user_113,"The Pandas part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+439,11-19-2023 15:00,user_200,"The OOP part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+440,1-19-2024 16:00,user_411,list comprehensions clicked for me instantly. So rewarding!,positive,happiness,4,Introduction to Python
+441,3-27-2024 14:00,user_340,The lambda functions demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+442,12-1-2023 16:00,user_339,Why is OOP explained so poorly?,negative,confusion,1,Introduction to Python
+443,12-25-2023 16:00,user_344,Why is OOP so confusing here?,negative,frustration,1,Introduction to Python
+444,12-10-2023 16:00,user_364,Didn't expect exception handling to be this intuitive!,negative,surprise,1,Introduction to Python
+445,2-24-2024 13:00,user_107,The OOP video quality is terrible!,negative,anger,1,Introduction to Python
+446,3-28-2024 09:00,user_299,exception handling clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+447,3-13-2024 14:00,user_289,The NumPy demo was unexpectedly brilliant!,negative,surprise,2,Introduction to Python
+448,2-28-2024 09:00,user_419,Lost at file handling. Need better examples!,negative,confusion,2,Introduction to Python
+449,1-3-2024 16:00,user_232,OOP is mind-blowing! I stayed up all night coding!,positive,excitement,4,Introduction to Python
+450,11-26-2023 15:00,user_246,Promised exception handling but only scratched the surface.,negative,disappointment,1,Introduction to Python
+451,2-15-2024 16:00,user_467,The async programming video quality is terrible!,negative,anger,2,Introduction to Python
+452,2-18-2024 14:00,user_278,The OOP project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+453,3-17-2024 09:00,user_249,Frustrated with exception handling. Need better examples.,negative,frustration,2,Introduction to Python
+454,2-16-2024 15:00,user_191,Didn't expect GUI projects to be this intuitive!,positive,surprise,5,Introduction to Python
+455,12-21-2023 11:00,user_125,Why was GUI projects explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+456,3-31-2024 14:00,user_439,The Pandas project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+457,1-1-2024 17:00,user_265,Frustrated with exception handling. Need better examples.,negative,frustration,2,Introduction to Python
+458,1-24-2024 11:00,user_479,Rage-quit the OOP assignment. Too vague!,negative,anger,1,Introduction to Python
+459,3-12-2024 11:00,user_270,Mastered exception handling thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+460,12-21-2023 14:00,user_181,Promised Pandas but only scratched the surface.,negative,disappointment,1,Introduction to Python
+461,2-17-2024 10:00,user_330,ZZZ... another lecture on GUI projects.,negative,boredom,1,Introduction to Python
+462,10-6-2023 14:00,user_178,The exception handling quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+463,10-6-2023 16:00,user_353,Mastered lambda functions thanks to the clear exercises.,positive,satisfaction,5,Introduction to Python
+464,2-14-2024 16:00,user_157,This file handling section is a waste of time.,negative,anger,1,Introduction to Python
+465,3-3-2024 12:00,user_395,lambda functions clicked for me instantly. So rewarding!,positive,happiness,5,Introduction to Python
+466,10-6-2023 17:00,user_378,Why was GUI projects explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+467,1-23-2024 15:00,user_329,Didn't expect file handling to be this intuitive!,negative,surprise,2,Introduction to Python
+468,11-14-2023 16:00,user_347,Now I can build OOP apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+469,11-1-2023 10:00,user_263,Mastered GUI projects thanks to the clear exercises.,positive,satisfaction,4,Introduction to Python
+470,12-30-2023 09:00,user_393,The exception handling demo was unexpectedly brilliant!,positive,surprise,5,Introduction to Python
+471,10-6-2023 16:00,user_205,The exception handling project made me fall in love with Python!,positive,excitement,4,Introduction to Python
+472,1-8-2024 09:00,user_480,The NumPy project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+473,1-12-2024 12:00,user_341,ZZZ... another lecture on list comprehensions.,negative,boredom,1,Introduction to Python
+474,11-7-2023 11:00,user_174,Rage-quit the Pandas assignment. Too vague!,negative,anger,2,Introduction to Python
+475,3-18-2024 13:00,user_244,"The lambda functions part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+476,2-10-2024 11:00,user_256,"I finally get exception handling, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+477,12-23-2023 13:00,user_334,The OOP project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+478,1-22-2024 09:00,user_391,The decorators project helped me land an internship!,positive,satisfaction,5,Introduction to Python
+479,12-17-2023 13:00,user_148,This NumPy section is a waste of time.,negative,anger,1,Introduction to Python
+480,10-17-2023 17:00,user_290,Why was exception handling explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+481,3-31-2024 11:00,user_387,The exception handling quiz was unfair and poorly designed.,negative,frustration,2,Introduction to Python
+482,12-9-2023 14:00,user_250,Frustrated with NumPy. Need better examples.,negative,frustration,1,Introduction to Python
+483,2-19-2024 12:00,user_424,The lambda functions lectures put me to sleep.,negative,boredom,2,Introduction to Python
+484,11-19-2023 11:00,user_163,Frustrated with file handling. Need better examples.,negative,frustration,1,Introduction to Python
+485,12-7-2023 09:00,user_290,OOP is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+486,12-21-2023 14:00,user_327,"Endless slides on GUI projects, where's the coding?",negative,boredom,2,Introduction to Python
+487,1-27-2024 09:00,user_248,Didn't expect exception handling to be this intuitive!,positive,surprise,4,Introduction to Python
+488,1-7-2024 09:00,user_284,exception handling clicked for me instantly. So rewarding!,positive,happiness,4,Introduction to Python
+489,11-17-2023 16:00,user_489,Why was GUI projects explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+490,11-24-2023 12:00,user_238,The file handling section was a letdown.,negative,disappointment,1,Introduction to Python
+491,11-27-2023 16:00,user_129,Rage-quit the list comprehensions assignment. Too vague!,negative,anger,2,Introduction to Python
+492,10-25-2023 09:00,user_492,Why is OOP explained so poorly?,negative,confusion,1,Introduction to Python
+493,2-19-2024 12:00,user_202,Mastered exception handling thanks to the clear exercises.,positive,satisfaction,4,Introduction to Python
+494,11-1-2023 12:00,user_497,"I finally get exception handling, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+495,2-6-2024 16:00,user_165,Why was file handling explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+496,10-22-2023 11:00,user_253,Now I can build exception handling apps confidently. Worth every penny!,positive,satisfaction,5,Introduction to Python
+497,12-8-2023 17:00,user_144,Why was exception handling explained so poorly? Totally caught me off guard.,positive,surprise,4,Introduction to Python
+498,11-7-2023 17:00,user_459,Frustrated with OOP. Need better examples.,negative,frustration,2,Introduction to Python
+499,3-15-2024 15:00,user_220,"Not bad, but exception handling needs improvement.",neutral,neutral,3,Introduction to Python
+500,1-31-2024 17:00,user_158,async programming is mind-blowing! I stayed up all night coding!,positive,excitement,5,Introduction to Python
+501,12-24-2023 10:00,user_146,Why is OOP so confusing here?,negative,frustration,2,Introduction to Python
+502,1-24-2024 13:00,user_328,"The decorators part was okay, but could be better.",neutral,neutral,3,Introduction to Python
+503,12-21-2023 13:00,user_385,Why was file handling explained so poorly? Totally caught me off guard.,positive,surprise,5,Introduction to Python
+504,1-23-2024 10:00,user_406,Promised exception handling but only scratched the surface.,negative,disappointment,2,Introduction to Python
+505,1-31-2024 12:00,user_412,The exception handling quiz was unfair and poorly designed.,negative,frustration,1,Introduction to Python
+506,2-6-2024 13:00,user_214,"Endless slides on decorators, where's the coding?",negative,boredom,1,Introduction to Python
+507,2-13-2024 13:00,user_122,The lambda functions lectures put me to sleep.,negative,boredom,1,Introduction to Python
+508,3-19-2024 12:00,user_443,The exception handling project made me fall in love with Python!,positive,excitement,5,Introduction to Python
+509,11-9-2023 09:00,user_218,The instructor's GUI projects examples were hilarious and easy to follow!,positive,happiness,4,Introduction to Python
+510,12-3-2023 14:00,user_251,Lost at OOP. Need better examples!,negative,confusion,1,Introduction to Python
+511,3-7-2024 13:00,user_383,Why is list comprehensions explained so poorly?,negative,confusion,2,Introduction to Python
+512,2-12-2024 13:00,user_262,The file handling project helped me land an internship!,positive,satisfaction,4,Introduction to Python
+513,12-28-2023 11:00,user_279,Average course. The GUI projects section was fine.,neutral,neutral,3,Introduction to Python
+514,11-8-2023 12:00,user_384,"Not bad, but NumPy needs improvement.",neutral,neutral,3,Introduction to Python
+515,1-7-2024 16:00,user_264,The async programming video quality is terrible!,negative,anger,1,Introduction to Python
+516,10-28-2023 10:00,user_332,Expected more depth on NumPy.,negative,disappointment,1,Introduction to Python
+517,12-5-2023 13:00,user_243,Still don't get exception handling after 3 lectures.,negative,confusion,1,Introduction to Python
+518,10-16-2023 13:00,user_279,The list comprehensions video quality is terrible!,negative,anger,2,Introduction to Python
+519,11-18-2023 17:00,user_350,"I finally get NumPy, this course is a lifesaver!",positive,happiness,5,Introduction to Python
+520,2-8-2024 12:00,user_391,ZZZ... another lecture on OOP.,negative,boredom,1,Introduction to Python

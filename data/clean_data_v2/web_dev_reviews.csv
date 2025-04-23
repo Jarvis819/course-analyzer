@@ -1,0 +1,521 @@
+feedback_id,timestamp,username,review,sentiment,emotion,rating,course,topic
+1,11-30-2023 00:00,user_325,Nailed Node.js! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+2,1-31-2024 00:00,user_304,The React section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,React
+3,2-13-2024 00:00,user_195,The HTML/CSS section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+4,10-2-2023 00:00,user_184,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+5,3-28-2024 00:00,user_164,DOM Manipulation was poorly explained.,negative,frustration,2,Web Development Bootcamp,DOM Manipulation
+6,1-9-2024 00:00,user_347,The JavaScript Basics module was perfect.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+7,10-3-2023 00:00,user_121,The Git/GitHub module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Git/GitHub
+8,12-5-2023 00:00,user_458,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+9,1-21-2024 00:00,user_202,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+10,12-25-2023 00:00,user_330,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+11,11-6-2023 00:00,user_221,HTML/CSS was poorly explained.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+12,2-14-2024 00:00,user_448,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+13,2-28-2024 00:00,user_499,Deployment was poorly explained.,negative,frustration,1,Web Development Bootcamp,Deployment
+14,11-10-2023 00:00,user_108,Stuck on React for days.,negative,frustration,2,Web Development Bootcamp,React
+15,3-21-2024 00:00,user_205,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+16,12-21-2023 00:00,user_253,JavaScript Basics was poorly explained.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+17,10-17-2023 00:00,user_460,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+18,12-12-2023 00:00,user_193,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+19,11-7-2023 00:00,user_292,"Why is Git/GitHub taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Git/GitHub
+20,1-12-2024 00:00,user_428,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,HTML/CSS
+21,11-13-2023 00:00,user_368,Stuck on API Integration for days.,negative,frustration,2,Web Development Bootcamp,API Integration
+22,1-9-2024 00:00,user_490,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+23,3-5-2024 00:00,user_496,Git/GitHub was poorly explained.,negative,frustration,2,Web Development Bootcamp,Git/GitHub
+24,10-16-2023 00:00,user_215,"Why is Git/GitHub taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Git/GitHub
+25,3-19-2024 00:00,user_140,The Deployment module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+26,1-14-2024 00:00,user_406,The HTML/CSS section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+27,2-8-2024 00:00,user_328,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+28,1-11-2024 00:00,user_488,"The HTML/CSS part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,HTML/CSS
+29,11-1-2023 00:00,user_100,The Deployment module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+30,11-27-2023 00:00,user_370,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+31,10-20-2023 00:00,user_349,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+32,1-19-2024 00:00,user_320,Node.js was poorly explained.,negative,frustration,1,Web Development Bootcamp,Node.js
+33,1-23-2024 00:00,user_297,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Node.js
+34,12-14-2023 00:00,user_159,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+35,10-18-2023 00:00,user_472,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+36,11-8-2023 00:00,user_438,"The API Integration part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,API Integration
+37,11-25-2023 00:00,user_402,Deployment was poorly explained.,negative,frustration,2,Web Development Bootcamp,Deployment
+38,2-18-2024 00:00,user_160,Git/GitHub was poorly explained.,negative,frustration,1,Web Development Bootcamp,Git/GitHub
+39,3-9-2024 00:00,user_482,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+40,1-9-2024 00:00,user_211,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+41,2-23-2024 00:00,user_106,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+42,1-1-2024 00:00,user_462,"The API Integration part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,API Integration
+43,1-17-2024 00:00,user_439,"The HTML/CSS part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,HTML/CSS
+44,12-1-2023 00:00,user_175,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+45,2-9-2024 00:00,user_228,API Integration was poorly explained.,negative,frustration,1,Web Development Bootcamp,API Integration
+46,3-9-2024 00:00,user_152,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+47,10-21-2023 00:00,user_245,The Node.js module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+48,1-15-2024 00:00,user_349,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+49,11-28-2023 00:00,user_427,"Why is DOM Manipulation taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+50,3-27-2024 00:00,user_331,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+51,12-16-2023 00:00,user_169,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+52,11-27-2023 00:00,user_138,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+53,2-23-2024 00:00,user_165,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+54,3-2-2024 00:00,user_373,Deployment was poorly explained.,negative,frustration,1,Web Development Bootcamp,Deployment
+55,2-23-2024 00:00,user_113,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+56,11-12-2023 00:00,user_363,The Node.js section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+57,12-1-2023 00:00,user_270,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Deployment
+58,3-21-2024 00:00,user_304,The React module was perfect.,positive,satisfaction,4,Web Development Bootcamp,React
+59,11-20-2023 00:00,user_500,The React module was perfect.,positive,satisfaction,4,Web Development Bootcamp,React
+60,10-17-2023 00:00,user_117,The DOM Manipulation module was perfect.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+61,10-7-2023 00:00,user_166,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Deployment
+62,2-13-2024 00:00,user_189,The React module was perfect.,positive,satisfaction,4,Web Development Bootcamp,React
+63,11-3-2023 00:00,user_126,"Finally, a course that teaches HTML/CSS properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+64,1-27-2024 00:00,user_303,Nailed API Integration! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+65,3-23-2024 00:00,user_134,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,React
+66,12-23-2023 00:00,user_125,Stuck on HTML/CSS for days.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+67,11-5-2023 00:00,user_216,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Node.js
+68,11-26-2023 00:00,user_496,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+69,3-26-2024 00:00,user_220,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+70,2-4-2024 00:00,user_349,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+71,1-14-2024 00:00,user_360,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+72,10-13-2023 00:00,user_205,HTML/CSS was poorly explained.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+73,10-21-2023 00:00,user_441,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,React
+74,10-28-2023 00:00,user_152,The DOM Manipulation section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+75,10-31-2023 00:00,user_275,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+76,1-10-2024 00:00,user_301,The DOM Manipulation section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+77,1-25-2024 00:00,user_237,The API Integration module was perfect.,positive,satisfaction,5,Web Development Bootcamp,API Integration
+78,3-11-2024 00:00,user_259,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+79,3-16-2024 00:00,user_347,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Deployment
+80,2-25-2024 00:00,user_221,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+81,10-31-2023 00:00,user_216,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Node.js
+82,10-5-2023 00:00,user_138,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+83,3-3-2024 00:00,user_469,Stuck on React for days.,negative,frustration,2,Web Development Bootcamp,React
+84,1-14-2024 00:00,user_380,"Why is DOM Manipulation taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+85,10-7-2023 00:00,user_430,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,React
+86,1-6-2024 00:00,user_191,API Integration was poorly explained.,negative,frustration,1,Web Development Bootcamp,API Integration
+87,3-31-2024 00:00,user_204,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+88,2-13-2024 00:00,user_434,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+89,3-7-2024 00:00,user_277,Stuck on Node.js for days.,negative,frustration,1,Web Development Bootcamp,Node.js
+90,11-5-2023 00:00,user_295,Nailed HTML/CSS! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+91,11-21-2023 00:00,user_358,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,HTML/CSS
+92,10-1-2023 00:00,user_295,HTML/CSS was poorly explained.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+93,3-27-2024 00:00,user_270,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,React
+94,10-22-2023 00:00,user_233,Nailed Node.js! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+95,2-24-2024 00:00,user_230,"The DOM Manipulation part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+96,3-2-2024 00:00,user_393,The Node.js module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+97,3-29-2024 00:00,user_288,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,React
+98,12-1-2023 00:00,user_465,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+99,12-20-2023 00:00,user_287,"Why is DOM Manipulation taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+100,3-25-2024 00:00,user_300,Nailed API Integration! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,API Integration
+101,12-28-2023 00:00,user_348,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Deployment
+102,10-12-2023 00:00,user_476,The JavaScript Basics section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+103,3-21-2024 00:00,user_290,Nailed HTML/CSS! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,HTML/CSS
+104,10-31-2023 00:00,user_392,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+105,11-13-2023 00:00,user_454,The Deployment module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+106,12-23-2023 00:00,user_449,Nailed Deployment! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+107,2-19-2024 00:00,user_147,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Deployment
+108,10-25-2023 00:00,user_480,The HTML/CSS section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,HTML/CSS
+109,12-9-2023 00:00,user_113,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+110,3-1-2024 00:00,user_422,The React section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,React
+111,1-29-2024 00:00,user_152,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+112,10-17-2023 00:00,user_142,Node.js was poorly explained.,negative,frustration,2,Web Development Bootcamp,Node.js
+113,10-18-2023 00:00,user_134,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Deployment
+114,10-7-2023 00:00,user_183,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+115,12-22-2023 00:00,user_347,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+116,10-12-2023 00:00,user_201,Stuck on JavaScript Basics for days.,negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+117,1-18-2024 00:00,user_466,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+118,10-26-2023 00:00,user_468,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+119,2-16-2024 00:00,user_431,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+120,10-14-2023 00:00,user_245,React was poorly explained.,negative,frustration,1,Web Development Bootcamp,React
+121,12-21-2023 00:00,user_194,Nailed HTML/CSS! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,HTML/CSS
+122,12-16-2023 00:00,user_370,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+123,12-29-2023 00:00,user_420,The React module was perfect.,positive,satisfaction,4,Web Development Bootcamp,React
+124,2-13-2024 00:00,user_103,The Node.js section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+125,11-21-2023 00:00,user_378,Stuck on HTML/CSS for days.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+126,1-21-2024 00:00,user_188,JavaScript Basics was poorly explained.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+127,2-21-2024 00:00,user_496,Stuck on DOM Manipulation for days.,negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+128,3-29-2024 00:00,user_154,API Integration was poorly explained.,negative,frustration,1,Web Development Bootcamp,API Integration
+129,2-7-2024 00:00,user_112,Stuck on React for days.,negative,frustration,1,Web Development Bootcamp,React
+130,12-17-2023 00:00,user_438,The Git/GitHub section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Git/GitHub
+131,2-17-2024 00:00,user_400,The Deployment module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+132,11-10-2023 00:00,user_237,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+133,12-21-2023 00:00,user_320,React was poorly explained.,negative,frustration,1,Web Development Bootcamp,React
+134,2-26-2024 00:00,user_409,Node.js was poorly explained.,negative,frustration,2,Web Development Bootcamp,Node.js
+135,12-1-2023 00:00,user_268,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,React
+136,2-9-2024 00:00,user_390,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+137,12-6-2023 00:00,user_313,Stuck on Node.js for days.,negative,frustration,1,Web Development Bootcamp,Node.js
+138,1-22-2024 00:00,user_276,The DOM Manipulation module was perfect.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+139,10-8-2023 00:00,user_159,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+140,1-10-2024 00:00,user_354,Nailed HTML/CSS! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,HTML/CSS
+141,12-25-2023 00:00,user_242,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+142,12-16-2023 00:00,user_454,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Node.js
+143,3-11-2024 00:00,user_345,"Why is API Integration taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,API Integration
+144,2-11-2024 00:00,user_473,Stuck on Deployment for days.,negative,frustration,1,Web Development Bootcamp,Deployment
+145,3-13-2024 00:00,user_416,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+146,11-28-2023 00:00,user_229,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+147,1-25-2024 00:00,user_326,JavaScript Basics was poorly explained.,negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+148,12-29-2023 00:00,user_156,The JavaScript Basics section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+149,1-23-2024 00:00,user_373,Nailed Deployment! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+150,3-22-2024 00:00,user_297,Stuck on HTML/CSS for days.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+151,12-23-2023 00:00,user_217,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+152,10-28-2023 00:00,user_140,The React section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,React
+153,3-17-2024 00:00,user_208,Stuck on HTML/CSS for days.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+154,1-9-2024 00:00,user_413,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,API Integration
+155,3-31-2024 00:00,user_418,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+156,10-19-2023 00:00,user_189,Nailed Node.js! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+157,2-8-2024 00:00,user_381,Deployment was poorly explained.,negative,frustration,2,Web Development Bootcamp,Deployment
+158,12-20-2023 00:00,user_379,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Node.js
+159,12-27-2023 00:00,user_305,The Node.js module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+160,10-15-2023 00:00,user_416,Nailed API Integration! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+161,10-8-2023 00:00,user_395,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Deployment
+162,11-20-2023 00:00,user_161,The Deployment module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+163,2-17-2024 00:00,user_239,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+164,2-3-2024 00:00,user_130,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,HTML/CSS
+165,3-18-2024 00:00,user_455,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+166,10-14-2023 00:00,user_320,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,API Integration
+167,2-19-2024 00:00,user_312,Node.js was poorly explained.,negative,frustration,1,Web Development Bootcamp,Node.js
+168,1-5-2024 00:00,user_239,"The DOM Manipulation part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,DOM Manipulation
+169,11-16-2023 00:00,user_107,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+170,1-26-2024 00:00,user_443,Stuck on HTML/CSS for days.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+171,3-11-2024 00:00,user_364,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+172,11-25-2023 00:00,user_149,Stuck on DOM Manipulation for days.,negative,frustration,2,Web Development Bootcamp,DOM Manipulation
+173,10-20-2023 00:00,user_469,"Why is API Integration taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,API Integration
+174,1-23-2024 00:00,user_404,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Node.js
+175,12-12-2023 00:00,user_398,The JavaScript Basics module was perfect.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+176,12-10-2023 00:00,user_230,Node.js was poorly explained.,negative,frustration,2,Web Development Bootcamp,Node.js
+177,11-25-2023 00:00,user_235,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+178,3-29-2024 00:00,user_381,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+179,10-4-2023 00:00,user_284,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+180,12-26-2023 00:00,user_250,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+181,12-9-2023 00:00,user_297,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Deployment
+182,2-7-2024 00:00,user_138,Stuck on React for days.,negative,frustration,1,Web Development Bootcamp,React
+183,3-11-2024 00:00,user_176,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+184,3-11-2024 00:00,user_266,Stuck on DOM Manipulation for days.,negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+185,1-21-2024 00:00,user_252,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+186,3-29-2024 00:00,user_315,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+187,1-29-2024 00:00,user_352,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,React
+188,10-10-2023 00:00,user_101,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,API Integration
+189,2-20-2024 00:00,user_362,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+190,12-29-2023 00:00,user_323,DOM Manipulation was poorly explained.,negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+191,2-26-2024 00:00,user_204,The JavaScript Basics module was perfect.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+192,12-23-2023 00:00,user_130,The HTML/CSS module was perfect.,positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+193,3-18-2024 00:00,user_402,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+194,11-4-2023 00:00,user_446,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+195,11-23-2023 00:00,user_117,The Git/GitHub module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Git/GitHub
+196,10-24-2023 00:00,user_236,HTML/CSS was poorly explained.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+197,10-19-2023 00:00,user_407,Stuck on API Integration for days.,negative,frustration,2,Web Development Bootcamp,API Integration
+198,11-24-2023 00:00,user_281,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,HTML/CSS
+199,12-29-2023 00:00,user_375,Stuck on Git/GitHub for days.,negative,frustration,1,Web Development Bootcamp,Git/GitHub
+200,12-20-2023 00:00,user_410,"The API Integration part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,API Integration
+201,2-26-2024 00:00,user_223,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+202,12-19-2023 00:00,user_325,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+203,11-15-2023 00:00,user_375,The React section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,React
+204,12-31-2023 00:00,user_164,The React section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,React
+205,1-28-2024 00:00,user_374,The React module was perfect.,positive,satisfaction,4,Web Development Bootcamp,React
+206,3-29-2024 00:00,user_455,Node.js was poorly explained.,negative,frustration,2,Web Development Bootcamp,Node.js
+207,3-25-2024 00:00,user_222,The JavaScript Basics section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+208,1-27-2024 00:00,user_326,The DOM Manipulation module was perfect.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+209,2-18-2024 00:00,user_252,"The Deployment part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Deployment
+210,3-28-2024 00:00,user_397,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+211,3-27-2024 00:00,user_301,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+212,10-11-2023 00:00,user_233,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Node.js
+213,10-25-2023 00:00,user_180,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,React
+214,1-8-2024 00:00,user_465,Stuck on React for days.,negative,frustration,1,Web Development Bootcamp,React
+215,10-29-2023 00:00,user_467,The API Integration module was perfect.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+216,12-10-2023 00:00,user_171,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+217,3-9-2024 00:00,user_108,"The Deployment part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Deployment
+218,10-8-2023 00:00,user_479,Stuck on API Integration for days.,negative,frustration,1,Web Development Bootcamp,API Integration
+219,10-2-2023 00:00,user_457,The Node.js module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+220,3-9-2024 00:00,user_218,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+221,3-4-2024 00:00,user_267,JavaScript Basics was poorly explained.,negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+222,11-7-2023 00:00,user_390,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+223,2-9-2024 00:00,user_449,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+224,2-8-2024 00:00,user_377,HTML/CSS was poorly explained.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+225,3-1-2024 00:00,user_318,Stuck on API Integration for days.,negative,frustration,1,Web Development Bootcamp,API Integration
+226,3-15-2024 00:00,user_404,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+227,2-21-2024 00:00,user_451,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+228,10-16-2023 00:00,user_473,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+229,2-29-2024 00:00,user_395,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Node.js
+230,3-31-2024 00:00,user_304,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+231,10-27-2023 00:00,user_354,The API Integration section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+232,12-22-2023 00:00,user_272,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+233,11-7-2023 00:00,user_297,Deployment was poorly explained.,negative,frustration,2,Web Development Bootcamp,Deployment
+234,2-6-2024 00:00,user_461,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Node.js
+235,2-21-2024 00:00,user_264,Stuck on HTML/CSS for days.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+236,10-3-2023 00:00,user_131,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+237,1-26-2024 00:00,user_137,"The Git/GitHub part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Git/GitHub
+238,3-21-2024 00:00,user_416,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+239,1-15-2024 00:00,user_208,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+240,11-1-2023 00:00,user_171,Stuck on DOM Manipulation for days.,negative,frustration,2,Web Development Bootcamp,DOM Manipulation
+241,12-26-2023 00:00,user_417,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+242,12-31-2023 00:00,user_234,The Git/GitHub module was perfect.,positive,satisfaction,5,Web Development Bootcamp,Git/GitHub
+243,2-5-2024 00:00,user_311,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,API Integration
+244,10-22-2023 00:00,user_469,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+245,2-9-2024 00:00,user_481,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+246,12-14-2023 00:00,user_386,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+247,12-12-2023 00:00,user_130,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+248,10-8-2023 00:00,user_336,The DOM Manipulation section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+249,10-25-2023 00:00,user_242,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,API Integration
+250,11-15-2023 00:00,user_375,Stuck on API Integration for days.,negative,frustration,2,Web Development Bootcamp,API Integration
+251,12-11-2023 00:00,user_101,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+252,10-25-2023 00:00,user_466,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+253,10-19-2023 00:00,user_466,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Node.js
+254,1-30-2024 00:00,user_114,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,API Integration
+255,10-28-2023 00:00,user_209,JavaScript Basics was poorly explained.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+256,3-11-2024 00:00,user_403,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+257,2-1-2024 00:00,user_447,Deployment was poorly explained.,negative,frustration,2,Web Development Bootcamp,Deployment
+258,2-28-2024 00:00,user_378,"Finally, a course that teaches HTML/CSS properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,HTML/CSS
+259,11-10-2023 00:00,user_175,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+260,3-14-2024 00:00,user_163,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Node.js
+261,2-25-2024 00:00,user_395,Nailed Git/GitHub! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,Git/GitHub
+262,12-2-2023 00:00,user_232,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+263,3-8-2024 00:00,user_260,"The Deployment part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Deployment
+264,12-22-2023 00:00,user_400,Git/GitHub was poorly explained.,negative,frustration,1,Web Development Bootcamp,Git/GitHub
+265,10-24-2023 00:00,user_444,JavaScript Basics was poorly explained.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+266,2-6-2024 00:00,user_440,The JavaScript Basics section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+267,10-1-2023 00:00,user_115,The Node.js module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+268,3-19-2024 00:00,user_467,The DOM Manipulation module was perfect.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+269,10-15-2023 00:00,user_327,Nailed Git/GitHub! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,Git/GitHub
+270,3-10-2024 00:00,user_191,The JavaScript Basics module was perfect.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+271,10-27-2023 00:00,user_102,The Deployment module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+272,10-19-2023 00:00,user_247,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Deployment
+273,3-9-2024 00:00,user_415,"The DOM Manipulation part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+274,10-13-2023 00:00,user_449,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+275,2-22-2024 00:00,user_346,API Integration was poorly explained.,negative,frustration,1,Web Development Bootcamp,API Integration
+276,11-16-2023 00:00,user_176,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+277,2-26-2024 00:00,user_305,"Finally, a course that teaches HTML/CSS properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+278,3-3-2024 00:00,user_104,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,React
+279,12-11-2023 00:00,user_198,The JavaScript Basics module was perfect.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+280,11-9-2023 00:00,user_482,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Node.js
+281,10-14-2023 00:00,user_354,The API Integration module was perfect.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+282,11-24-2023 00:00,user_203,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+283,10-28-2023 00:00,user_159,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+284,11-8-2023 00:00,user_445,API Integration was poorly explained.,negative,frustration,1,Web Development Bootcamp,API Integration
+285,10-27-2023 00:00,user_363,The DOM Manipulation section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+286,11-3-2023 00:00,user_121,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+287,2-29-2024 00:00,user_377,Stuck on Deployment for days.,negative,frustration,1,Web Development Bootcamp,Deployment
+288,3-15-2024 00:00,user_174,Nailed API Integration! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,API Integration
+289,11-22-2023 00:00,user_216,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+290,1-29-2024 00:00,user_491,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,React
+291,10-30-2023 00:00,user_113,Nailed API Integration! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,API Integration
+292,3-4-2024 00:00,user_120,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+293,3-18-2024 00:00,user_423,Nailed Node.js! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+294,10-4-2023 00:00,user_494,Git/GitHub was poorly explained.,negative,frustration,1,Web Development Bootcamp,Git/GitHub
+295,3-28-2024 00:00,user_158,The DOM Manipulation module was perfect.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+296,2-7-2024 00:00,user_316,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+297,11-28-2023 00:00,user_204,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+298,1-20-2024 00:00,user_484,Nailed API Integration! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+299,1-3-2024 00:00,user_419,"Why is API Integration taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,API Integration
+300,11-7-2023 00:00,user_487,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+301,11-17-2023 00:00,user_366,Nailed Deployment! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+302,11-10-2023 00:00,user_463,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+303,10-8-2023 00:00,user_263,The React section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,React
+304,2-14-2024 00:00,user_237,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+305,10-25-2023 00:00,user_439,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+306,12-1-2023 00:00,user_497,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+307,3-21-2024 00:00,user_340,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+308,1-8-2024 00:00,user_389,Stuck on Deployment for days.,negative,frustration,1,Web Development Bootcamp,Deployment
+309,10-2-2023 00:00,user_384,Stuck on HTML/CSS for days.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+310,12-20-2023 00:00,user_383,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+311,11-10-2023 00:00,user_320,Nailed Node.js! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+312,2-18-2024 00:00,user_320,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,HTML/CSS
+313,3-4-2024 00:00,user_456,The DOM Manipulation module was perfect.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+314,3-29-2024 00:00,user_232,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Deployment
+315,12-1-2023 00:00,user_331,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+316,10-25-2023 00:00,user_366,Nailed Node.js! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+317,2-16-2024 00:00,user_475,Stuck on HTML/CSS for days.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+318,11-7-2023 00:00,user_192,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+319,3-30-2024 00:00,user_232,Stuck on React for days.,negative,frustration,2,Web Development Bootcamp,React
+320,10-11-2023 00:00,user_395,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Deployment
+321,3-15-2024 00:00,user_409,API Integration was poorly explained.,negative,frustration,2,Web Development Bootcamp,API Integration
+322,11-11-2023 00:00,user_140,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+323,1-5-2024 00:00,user_344,Stuck on Node.js for days.,negative,frustration,1,Web Development Bootcamp,Node.js
+324,1-5-2024 00:00,user_454,Stuck on Git/GitHub for days.,negative,frustration,1,Web Development Bootcamp,Git/GitHub
+325,10-17-2023 00:00,user_449,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Deployment
+326,10-12-2023 00:00,user_359,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+327,12-26-2023 00:00,user_193,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,API Integration
+328,12-19-2023 00:00,user_404,The DOM Manipulation section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+329,10-12-2023 00:00,user_495,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+330,12-25-2023 00:00,user_178,"The Deployment part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Deployment
+331,1-16-2024 00:00,user_298,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+332,2-23-2024 00:00,user_364,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+333,2-21-2024 00:00,user_328,The Deployment module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+334,2-6-2024 00:00,user_473,Stuck on HTML/CSS for days.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+335,11-16-2023 00:00,user_357,The DOM Manipulation module was perfect.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+336,10-13-2023 00:00,user_382,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,API Integration
+337,1-30-2024 00:00,user_201,The JavaScript Basics module was perfect.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+338,10-17-2023 00:00,user_205,Node.js was poorly explained.,negative,frustration,1,Web Development Bootcamp,Node.js
+339,12-10-2023 00:00,user_403,Node.js was poorly explained.,negative,frustration,2,Web Development Bootcamp,Node.js
+340,10-18-2023 00:00,user_472,The Node.js section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+341,12-16-2023 00:00,user_137,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+342,11-10-2023 00:00,user_391,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+343,2-13-2024 00:00,user_179,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Deployment
+344,10-16-2023 00:00,user_112,"The Deployment part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Deployment
+345,1-27-2024 00:00,user_288,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,React
+346,11-23-2023 00:00,user_119,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+347,2-17-2024 00:00,user_347,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+348,12-17-2023 00:00,user_343,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+349,11-14-2023 00:00,user_327,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+350,12-1-2023 00:00,user_155,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Deployment
+351,3-10-2024 00:00,user_220,Nailed Node.js! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+352,1-5-2024 00:00,user_113,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Node.js
+353,12-7-2023 00:00,user_205,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+354,12-20-2023 00:00,user_447,Nailed Deployment! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+355,2-11-2024 00:00,user_340,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+356,11-12-2023 00:00,user_187,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,React
+357,2-2-2024 00:00,user_132,The HTML/CSS section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+358,11-26-2023 00:00,user_199,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Node.js
+359,10-21-2023 00:00,user_266,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+360,2-19-2024 00:00,user_249,Nailed API Integration! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+361,1-12-2024 00:00,user_337,Stuck on JavaScript Basics for days.,negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+362,2-13-2024 00:00,user_224,Stuck on HTML/CSS for days.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+363,12-13-2023 00:00,user_155,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Deployment
+364,12-23-2023 00:00,user_210,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+365,3-12-2024 00:00,user_308,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+366,11-4-2023 00:00,user_127,Nailed Node.js! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+367,12-11-2023 00:00,user_240,The Node.js section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+368,11-21-2023 00:00,user_136,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+369,1-25-2024 00:00,user_111,The Node.js section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+370,12-2-2023 00:00,user_384,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,React
+371,1-22-2024 00:00,user_461,The DOM Manipulation module was perfect.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+372,11-5-2023 00:00,user_405,"Finally, a course that teaches HTML/CSS properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+373,3-18-2024 00:00,user_190,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,HTML/CSS
+374,11-26-2023 00:00,user_305,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+375,12-16-2023 00:00,user_313,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+376,10-2-2023 00:00,user_343,"Finally, a course that teaches HTML/CSS properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+377,10-7-2023 00:00,user_243,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+378,11-17-2023 00:00,user_455,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Deployment
+379,3-12-2024 00:00,user_145,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+380,12-7-2023 00:00,user_220,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+381,12-18-2023 00:00,user_480,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+382,2-3-2024 00:00,user_313,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Deployment
+383,12-23-2023 00:00,user_406,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,HTML/CSS
+384,3-15-2024 00:00,user_207,Node.js was poorly explained.,negative,frustration,2,Web Development Bootcamp,Node.js
+385,12-1-2023 00:00,user_217,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+386,1-22-2024 00:00,user_294,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+387,2-26-2024 00:00,user_234,Stuck on Deployment for days.,negative,frustration,2,Web Development Bootcamp,Deployment
+388,11-19-2023 00:00,user_311,Stuck on API Integration for days.,negative,frustration,2,Web Development Bootcamp,API Integration
+389,11-1-2023 00:00,user_473,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+390,10-30-2023 00:00,user_304,"Finally, a course that teaches API Integration properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,API Integration
+391,10-5-2023 00:00,user_436,"Why is React taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,React
+392,2-26-2024 00:00,user_271,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+393,1-17-2024 00:00,user_445,Stuck on HTML/CSS for days.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+394,2-28-2024 00:00,user_288,"Why is API Integration taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,API Integration
+395,1-21-2024 00:00,user_321,JavaScript Basics was poorly explained.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+396,3-27-2024 00:00,user_485,Nailed API Integration! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+397,10-29-2023 00:00,user_340,Stuck on React for days.,negative,frustration,1,Web Development Bootcamp,React
+398,3-1-2024 00:00,user_295,The JavaScript Basics module was perfect.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+399,2-29-2024 00:00,user_431,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+400,2-20-2024 00:00,user_435,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+401,10-25-2023 00:00,user_257,"The DOM Manipulation part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,DOM Manipulation
+402,3-13-2024 00:00,user_437,Nailed Deployment! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+403,12-23-2023 00:00,user_342,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+404,11-14-2023 00:00,user_153,"Why is API Integration taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,API Integration
+405,10-8-2023 00:00,user_426,HTML/CSS was poorly explained.,negative,frustration,2,Web Development Bootcamp,HTML/CSS
+406,12-30-2023 00:00,user_344,Nailed API Integration! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,API Integration
+407,11-24-2023 00:00,user_474,The API Integration module was perfect.,positive,satisfaction,5,Web Development Bootcamp,API Integration
+408,11-22-2023 00:00,user_108,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+409,3-14-2024 00:00,user_134,The DOM Manipulation module was perfect.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+410,11-13-2023 00:00,user_270,The Node.js section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+411,10-7-2023 00:00,user_274,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Node.js
+412,1-17-2024 00:00,user_180,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+413,2-18-2024 00:00,user_374,The DOM Manipulation section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+414,3-9-2024 00:00,user_107,The HTML/CSS module was perfect.,positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+415,12-10-2023 00:00,user_117,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+416,10-25-2023 00:00,user_445,The API Integration module was perfect.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+417,3-6-2024 00:00,user_271,"Finally, a course that teaches Deployment properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Deployment
+418,2-29-2024 00:00,user_298,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+419,11-4-2023 00:00,user_342,"Why is API Integration taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,API Integration
+420,1-22-2024 00:00,user_477,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+421,11-5-2023 00:00,user_351,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+422,11-17-2023 00:00,user_446,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+423,10-25-2023 00:00,user_124,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+424,1-2-2024 00:00,user_487,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+425,2-10-2024 00:00,user_473,The API Integration section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,API Integration
+426,2-27-2024 00:00,user_478,JavaScript Basics was poorly explained.,negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+427,2-20-2024 00:00,user_403,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+428,10-24-2023 00:00,user_447,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+429,10-27-2023 00:00,user_413,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Deployment
+430,11-21-2023 00:00,user_162,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+431,2-3-2024 00:00,user_277,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+432,11-3-2023 00:00,user_212,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+433,11-8-2023 00:00,user_322,"Finally, a course that teaches HTML/CSS properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+434,3-31-2024 00:00,user_187,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Node.js
+435,1-13-2024 00:00,user_409,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+436,11-22-2023 00:00,user_125,"The DOM Manipulation part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,DOM Manipulation
+437,12-21-2023 00:00,user_260,The React section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,React
+438,10-2-2023 00:00,user_327,The Node.js module was perfect.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+439,11-17-2023 00:00,user_341,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+440,2-23-2024 00:00,user_488,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+441,2-14-2024 00:00,user_127,Nailed Deployment! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+442,3-17-2024 00:00,user_201,The Git/GitHub section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,Git/GitHub
+443,12-4-2023 00:00,user_191,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+444,10-25-2023 00:00,user_136,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+445,12-20-2023 00:00,user_153,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Node.js
+446,11-18-2023 00:00,user_480,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+447,2-26-2024 00:00,user_378,Stuck on Node.js for days.,negative,frustration,2,Web Development Bootcamp,Node.js
+448,3-13-2024 00:00,user_159,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+449,3-6-2024 00:00,user_117,Nailed React! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,React
+450,12-26-2023 00:00,user_158,The DOM Manipulation section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+451,12-31-2023 00:00,user_316,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Deployment
+452,11-30-2023 00:00,user_421,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,React
+453,11-25-2023 00:00,user_233,"Finally, a course that teaches JavaScript Basics properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+454,10-18-2023 00:00,user_428,"Why is JavaScript Basics taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+455,12-21-2023 00:00,user_427,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+456,10-30-2023 00:00,user_453,Nailed Node.js! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+457,10-30-2023 00:00,user_463,The Git/GitHub section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,Git/GitHub
+458,3-2-2024 00:00,user_411,Nailed Node.js! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+459,10-1-2023 00:00,user_441,Nailed Git/GitHub! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,Git/GitHub
+460,11-26-2023 00:00,user_304,Nailed Node.js! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+461,3-18-2024 00:00,user_412,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Node.js
+462,2-6-2024 00:00,user_458,"Finally, a course that teaches DOM Manipulation properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+463,12-29-2023 00:00,user_153,The JavaScript Basics section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+464,11-1-2023 00:00,user_318,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+465,3-10-2024 00:00,user_179,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,Deployment
+466,11-21-2023 00:00,user_435,Nailed Node.js! Clear and practical.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+467,11-24-2023 00:00,user_498,Nailed HTML/CSS! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,HTML/CSS
+468,12-13-2023 00:00,user_397,Git/GitHub was poorly explained.,negative,frustration,1,Web Development Bootcamp,Git/GitHub
+469,2-21-2024 00:00,user_429,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,React
+470,3-4-2024 00:00,user_264,The JavaScript Basics module was perfect.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+471,1-5-2024 00:00,user_496,The HTML/CSS section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,4,Web Development Bootcamp,HTML/CSS
+472,3-11-2024 00:00,user_433,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+473,11-19-2023 00:00,user_338,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Node.js
+474,10-25-2023 00:00,user_443,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,React
+475,3-15-2024 00:00,user_394,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+476,11-27-2023 00:00,user_465,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,DOM Manipulation
+477,2-22-2024 00:00,user_358,"Why is DOM Manipulation taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,DOM Manipulation
+478,10-26-2023 00:00,user_290,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Node.js
+479,12-14-2023 00:00,user_174,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,HTML/CSS
+480,1-27-2024 00:00,user_478,Nailed React! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,React
+481,1-31-2024 00:00,user_339,Stuck on JavaScript Basics for days.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+482,3-17-2024 00:00,user_199,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,React
+483,3-9-2024 00:00,user_222,The Node.js module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Node.js
+484,12-3-2023 00:00,user_219,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+485,3-11-2024 00:00,user_273,Nailed JavaScript Basics! Clear and practical.,positive,satisfaction,5,Web Development Bootcamp,JavaScript Basics
+486,3-14-2024 00:00,user_468,Git/GitHub was poorly explained.,negative,frustration,1,Web Development Bootcamp,Git/GitHub
+487,2-24-2024 00:00,user_447,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,HTML/CSS
+488,2-7-2024 00:00,user_176,The React module was perfect.,positive,satisfaction,3,Web Development Bootcamp,React
+489,12-27-2023 00:00,user_167,"Finally, a course that teaches HTML/CSS properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+490,2-18-2024 00:00,user_364,API Integration was poorly explained.,negative,frustration,2,Web Development Bootcamp,API Integration
+491,3-10-2024 00:00,user_482,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,JavaScript Basics
+492,2-1-2024 00:00,user_112,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,React
+493,10-22-2023 00:00,user_496,"The Git/GitHub part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Git/GitHub
+494,2-26-2024 00:00,user_489,The Deployment section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Deployment
+495,1-24-2024 00:00,user_460,The Node.js section was the highlight! The instructor's real-world examples made everything click. I've already used this in my freelance projects.,positive,satisfaction,3,Web Development Bootcamp,Node.js
+496,10-27-2023 00:00,user_101,"The API Integration part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,API Integration
+497,11-13-2023 00:00,user_284,"Why is Deployment taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Deployment
+498,3-24-2024 00:00,user_476,HTML/CSS was poorly explained.,negative,frustration,1,Web Development Bootcamp,HTML/CSS
+499,11-28-2023 00:00,user_412,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,2,Web Development Bootcamp,Node.js
+500,3-25-2024 00:00,user_314,Stuck on Deployment for days.,negative,frustration,2,Web Development Bootcamp,Deployment
+501,1-10-2024 00:00,user_371,Nailed DOM Manipulation! Clear and practical.,positive,satisfaction,4,Web Development Bootcamp,DOM Manipulation
+502,12-29-2023 00:00,user_453,Stuck on Git/GitHub for days.,negative,frustration,2,Web Development Bootcamp,Git/GitHub
+503,12-18-2023 00:00,user_366,"Why is HTML/CSS taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,HTML/CSS
+504,12-27-2023 00:00,user_315,React was poorly explained.,negative,frustration,2,Web Development Bootcamp,React
+505,12-3-2023 00:00,user_161,"The Deployment part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Deployment
+506,3-18-2024 00:00,user_500,The Git/GitHub module was perfect.,positive,satisfaction,4,Web Development Bootcamp,Git/GitHub
+507,12-10-2023 00:00,user_272,"Why is Node.js taught so abstractly? I needed step-by-step scaffolding, not theoretical lectures.",negative,frustration,1,Web Development Bootcamp,Node.js
+508,12-22-2023 00:00,user_485,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,Node.js
+509,11-7-2023 00:00,user_358,"Finally, a course that teaches Node.js properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,4,Web Development Bootcamp,Node.js
+510,10-14-2023 00:00,user_436,React was poorly explained.,negative,frustration,1,Web Development Bootcamp,React
+511,2-19-2024 00:00,user_112,"The JavaScript Basics part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+512,12-11-2023 00:00,user_456,"The Node.js part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,Node.js
+513,12-10-2023 00:00,user_374,"Finally, a course that teaches React properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,3,Web Development Bootcamp,React
+514,1-23-2024 00:00,user_230,The HTML/CSS module was perfect.,positive,satisfaction,5,Web Development Bootcamp,HTML/CSS
+515,12-25-2023 00:00,user_288,JavaScript Basics was poorly explained.,negative,frustration,1,Web Development Bootcamp,JavaScript Basics
+516,10-5-2023 00:00,user_321,"Finally, a course that teaches Git/GitHub properly. The exercises were challenging but rewarding,no 'todo list' fluff here.",positive,satisfaction,5,Web Development Bootcamp,Git/GitHub
+517,2-16-2024 00:00,user_236,"The React part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,2,Web Development Bootcamp,React
+518,11-9-2023 00:00,user_317,The JavaScript Basics module was perfect.,positive,satisfaction,4,Web Development Bootcamp,JavaScript Basics
+519,11-8-2023 00:00,user_275,"The Deployment part left me furious. The instructor skipped over key concepts, and the documentation links were outdated. Had to rely on Stack Overflow.",negative,frustration,1,Web Development Bootcamp,Deployment
+520,1-25-2024 00:00,user_214,Stuck on React for days.,negative,frustration,2,Web Development Bootcamp,React

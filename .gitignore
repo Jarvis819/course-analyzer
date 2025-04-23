@@ -1,0 +1,17 @@
+# Ignore large models
+/sentiment_models/
+*.bin
+*.pt
+*.ckpt
+*.pth
+*.h5
+*.joblib
+*.pkl
+/emotion_model/
+*.bin
+*.pt
+*.ckpt
+*.pth
+*.h5
+*.joblib
+*.pkl
