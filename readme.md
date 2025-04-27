@@ -43,6 +43,10 @@ cd e-learning-review-analyzer
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
+------------------------
+conda env create -f environment.yml  # Recreates exact environment
+conda activate rev-env
+streamlit run app.py
 
 # Install dependencies
 pip install -r requirements.txt
