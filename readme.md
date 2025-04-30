@@ -69,3 +69,5 @@ Some sections were repetitive and could have been condensed.
 This course was incredibly well-structured and the instructor explained everything clearly.
 
 
+# If Module torch not found
+pip install torch==2.0.0+cu117 torchvision==0.15.1+cu117 torchaudio==2.0.0+cu117 -f https://download.pytorch.org/whl/torch_stable.html
