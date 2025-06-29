@@ -18,7 +18,7 @@ from utils.utils import (
 # Load the Hugging Face model (only once)
 @st.cache_resource
 def load_hf_model():
-    return pipeline("text-generation", model="HuggingFaceH4/zephyr-7b-alpha", device=0 if torch.cuda.is_available() else -1)
+    return pipeline("text-generation", model="HuggingFaceH4/zephyr-1.3b",  torch_dtype=torch.float32, device_map="auto")
 
 hf_pipeline = load_hf_model()
 
