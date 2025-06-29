@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd 
 import matplotlib.pyplot as plt
+from transformers import pipeline
+import torch
 
 from pipeline.sentiment_analysis import analyze_sentiment
 from pipeline.summarization import generate_summary
@@ -12,6 +14,14 @@ from utils.utils import (
     get_sentiment_distribution_plot,
     clean_and_capitalize_sentences,
 )
+
+# Load the Hugging Face model (only once)
+@st.cache_resource
+def load_hf_model():
+    return pipeline("text-generation", model="mistralai/Mistral-7B-Instruct-v0.1", device=0 if torch.cuda.is_available() else -1)
+
+hf_pipeline = load_hf_model()
+
 
 # Page Setup
 st.set_page_config(page_title="E-learning Review Analyzer", layout="centered")
@@ -68,11 +78,6 @@ if page == "Home":
 
         input_mode = st.radio("Select input method:", ["📝 Paste Text", "📁 Upload CSV"])
         reviews = []
-
-        # if input_mode == "📝 Paste Text":
-        #     review_input = st.text_area("Paste course reviews below (separate each by a new line):", height=250)
-        #     if review_input.strip():
-        #         reviews = list({r.strip() for r in review_input.strip().split('\n') if r.strip()})
         
         if input_mode == "📝 Paste Text":
             review_input = st.text_area("Paste course reviews below (separate each by a new line):", height=250)
@@ -142,11 +147,6 @@ if page == "Home":
             # Always show input interface in compare mode
             second_input_mode = st.radio("Select input method for Course 2:", ["📝 Paste Text", "📁 Upload CSV"], key="mode2")
             reviews2 = []
-
-            # if second_input_mode == "📝 Paste Text":
-            #     review_input2 = st.text_area("Paste second course reviews below:", height=250)
-            #     if review_input2.strip():
-            #         reviews2 = list({r.strip() for r in review_input2.strip().split('\n') if r.strip()})
             
             if second_input_mode == "📝 Paste Text":
                 review_input2 = st.text_area("Paste course reviews below (separate each by a new line):", height=250)
@@ -255,30 +255,27 @@ elif page == "AI-Powered Q&A":
         reviews = st.session_state["course1_results"]["liked"] + st.session_state["course1_results"]["complaints"]
 
 
-        def ask_ollama(question, reviews):
-            import ollama
+        def ask_hf(question, reviews):
             prompt = f"""
-You're an assistant trained to answer questions about course reviews.
-Please answer the question concisely, using no more than 3 to 5 sentences.
-
+        You're an assistant trained to answer questions about course reviews.
+        Please answer the question concisely, using no more than 3 to 5 sentences.
+        
 Reviews:
 {chr(10).join(reviews[:20])}
 
 Question:
 {question}
 """
-            response = ollama.chat(
-                model='phi3',
-                messages=[{"role": "user", "content": prompt.strip()}]
-            )
-            return response['message']['content']
+            output = hf_pipeline(prompt, max_new_tokens=200, do_sample=True)[0]['generated_text']
+            return output.replace(prompt.strip(), "").strip()
+
 
 
         with st.expander("📌 AI Summary Based on Reviews from Course 1"):
             if "ollama_summary" not in st.session_state:
                 with st.spinner("Generating summary..."):
                     summary_prompt = "Summarize the sentiment and common opinions from these course reviews in 1 paragraph. Be concise."
-                    st.session_state["ollama_summary"] = ask_ollama(summary_prompt, reviews)
+                    st.session_state["ollama_summary"] = ask_hf(summary_prompt, reviews)
             
             st.markdown(f"**Summary:**\n\n{st.session_state['ollama_summary']}")
 
@@ -288,7 +285,7 @@ Question:
             if st.button("Ask AI"):
                 if user_question.strip():
                     with st.spinner("Thinking..."):
-                        ai_response = ask_ollama(user_question, reviews)
+                        ai_response = ask_hf(user_question, reviews)
                         st.markdown(f"**Answer:**\n\n{ai_response}")
                 else:
                     st.warning("Please enter a question.")
@@ -307,27 +304,24 @@ else:
     course2_reviews = []
 
 # Function to ask Ollama for comparison answers.
-def ask_ollama(question, course1_reviews, course2_reviews):
-    import ollama
+def ask_hf_comparison(question, course1_reviews, course2_reviews):
     prompt = f"""
-You're an AI assistant trained to answer student queries about course reviews. The student is comparing two courses.
+You're an AI assistant trained to compare and answer student queries about course reviews.
 
-📘 **Course 1 Reviews:**
+📘 Course 1 Reviews:
 {chr(10).join(course1_reviews[:10])}
 
-📗 **Course 2 Reviews:**
+📗 Course 2 Reviews:
 {chr(10).join(course2_reviews[:10])}
 
-💬 **User Question:**
+💬 User Question:
 {question}
 
-# 💡 Please provide a helpful and concise answer, preferably with a comparison if applicable. Please answer the question concisely, using no more than 3 to 5 sentences.
-# """
-    response = ollama.chat(
-        model='phi3',
-        messages=[{"role": "user", "content": prompt.strip()}]
-    )
-    return response['message']['content']
+Please provide a concise and helpful answer in 3 to 5 sentences.
+"""
+    output = hf_pipeline(prompt, max_new_tokens=250, do_sample=True)[0]['generated_text']
+    return output.replace(prompt.strip(), "").strip()
+
 
 
 # **AI-Powered Q&A Section**
@@ -344,7 +338,7 @@ if page == "AI-Powered Q&A":
                 if "ollama_summary2" not in st.session_state:
                     with st.spinner("Generating summary..."):
                         summary_prompt = "Summarize the sentiment and common opinions from these course reviews in 1 paragraph. Be concise."
-                        st.session_state["ollama_summary2"] = ask_ollama(summary_prompt, course1_reviews, course2_reviews)
+                        st.session_state["ollama_summary2"] = ask_hf_comparison(summary_prompt, course1_reviews, course2_reviews)
                 
                 st.markdown(f"**Summary:**\n\n{st.session_state['ollama_summary2']}")
 
@@ -352,6 +346,5 @@ if page == "AI-Powered Q&A":
             if st.button("Ask Comparison AI"):
                 if user_question.strip():
                     with st.spinner("Thinking..."):
-                        ai_response = ask_ollama(user_question, course1_reviews, course2_reviews)
+                        ai_response = ask_hf_comparison(user_question, course1_reviews, course2_reviews)
                         st.markdown(f"**Answer:**\n\n{ai_response}")
-
