@@ -18,3 +18,4 @@ memory-profiler
 matplotlib-inline
 pydeck
 tqdm
+accelerate
