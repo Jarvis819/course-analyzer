@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd 
 import matplotlib.pyplot as plt
-from transformers import pipeline
+from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer
 import torch
 
 from pipeline.sentiment_analysis import analyze_sentiment
@@ -16,9 +16,15 @@ from utils.utils import (
 )
 
 # Load the Hugging Face model (only once)
+# @st.cache_resource
+# def load_hf_model():
+#     return pipeline("text-generation", model="microsoft/DialoGPT-medium",  device=0 if torch.cuda.is_available() else -1)
 @st.cache_resource
 def load_hf_model():
-    return pipeline("text-generation", model="microsoft/DialoGPT-medium",  device=0 if torch.cuda.is_available() else -1)
+    model_id = "microsoft/DialoGPT-medium"
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    model = AutoModelForCausalLM.from_pretrained(model_id).to("cpu")  
+    return tokenizer, model
 
 hf_pipeline = load_hf_model()
 
