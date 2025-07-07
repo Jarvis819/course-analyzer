@@ -21,7 +21,7 @@ from utils.utils import (
 #     return pipeline("text-generation", model="microsoft/DialoGPT-medium",  device=0 if torch.cuda.is_available() else -1)
 @st.cache_resource
 def load_hf_model():
-    model_id = "microsoft/DialoGPT-medium"
+    model_id = "microsoft/DialoGPT-small"
     tokenizer = AutoTokenizer.from_pretrained(model_id)
     model = AutoModelForCausalLM.from_pretrained(model_id).to("cpu")  
     return tokenizer, model
