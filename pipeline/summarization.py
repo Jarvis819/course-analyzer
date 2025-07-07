@@ -5,8 +5,8 @@ from transformers import pipeline
 # instantiate once
 _summarizer = pipeline(
     "summarization",
-    # model="facebook/bart-large-cnn",
-    model="sshleifer/distilbart-cnn-12-6",
+    model="facebook/bart-large-cnn",
+    # model="sshleifer/distilbart-cnn-12-6",
     
     device=0  # set to -1 if you’re on CPU
 )
