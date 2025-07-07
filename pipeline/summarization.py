@@ -6,7 +6,7 @@ from transformers import pipeline
 _summarizer = pipeline(
     "summarization",
     # model="facebook/bart-large-cnn",
-    model="facebook/blenderbot_small-90M",
+    model="sshleifer/distilbart-cnn-12-6",
     
     device=0  # set to -1 if you’re on CPU
 )
