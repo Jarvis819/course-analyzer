@@ -25,11 +25,15 @@ from utils.utils import (
 #     tokenizer = AutoTokenizer.from_pretrained(model_id)
 #     model = AutoModelForCausalLM.from_pretrained(model_id).to("cpu")  
 #     return tokenizer, model
+# def load_hf_model():
+#     model_id = "microsoft/DialoGPT-small"
+#     tokenizer = AutoTokenizer.from_pretrained(model_id)
+#     model = AutoModelForCausalLM.from_pretrained(model_id).to("cpu")
+#     pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, device=-1)
+#     return pipe
 def load_hf_model():
     model_id = "microsoft/DialoGPT-small"
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
-    model = AutoModelForCausalLM.from_pretrained(model_id).to("cpu")
-    pipe = pipeline("text-generation", model=model, tokenizer=tokenizer, device=-1)
+    pipe = pipeline("text-generation", model=model_id, tokenizer=model_id, device=-1)  # -1 = CPU
     return pipe
     
 hf_pipeline = load_hf_model()
